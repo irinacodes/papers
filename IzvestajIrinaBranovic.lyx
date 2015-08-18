@@ -193,8 +193,8 @@ IZVEŠTAJ
 \end_layout
 
 \begin_layout Standard
-Dr Irina Branović Balović zaposlena je u Matematičkom institutu SANU od
- oktobra 2014.
+Dr Irina Branović Balović zaposlena je u Matematičkom institutu SANU sa
+ trećinom radnog vremena od oktobra 2014.
 \begin_inset space ~
 \end_inset
 
@@ -392,6 +392,12 @@ Bibliografija kandidata - kvantitativni kriterijumi
 \end_layout
 
 \begin_layout Standard
+S obzirom da kandidat ranije nije biran u istraživačka zvanja, vec samo
+ u nastavnička zvanja, ovde dajemo najpre spisak, a zatim i prikaz svih
+ objavljenih naučnih radova kandidata.
+\end_layout
+
+\begin_layout Standard
 \noindent
 
 \series bold
@@ -490,7 +496,7 @@ status open
 
 
 \backslash
-underline{Poglavlja u monografijama me
+underline{Poglavlja u knjigama me
 \backslash
 dj unarodnog
 \end_layout
@@ -499,7 +505,7 @@ dj unarodnog
 
 zna
 \backslash
-v{c}aja (M$_{14}$ = 4)}
+v{c}aja (M$_{13}$ = 6)}
 \end_layout
 
 \end_inset
@@ -1989,7 +1995,7 @@ status collapsed
 
 \end_inset
 
- radovi kandidata se kvantitativno valorizuju na sledeći način:
+ radovi kandidata se kvantitativno vrednuju na sledeći način:
 \end_layout
 
 \begin_layout Standard
@@ -2092,7 +2098,7 @@ M12
 \begin_inset Text
 
 \begin_layout Plain Layout
-M14 
+M13 
 \end_layout
 
 \end_inset
@@ -2101,7 +2107,7 @@ M14
 \begin_inset Text
 
 \begin_layout Plain Layout
-4
+6
 \end_layout
 
 \end_inset
@@ -2119,7 +2125,7 @@ M14
 \begin_inset Text
 
 \begin_layout Plain Layout
-8
+12
 \end_layout
 
 \end_inset
@@ -2461,7 +2467,7 @@ ukupno
 \begin_inset Text
 
 \begin_layout Plain Layout
-76 
+80 
 \end_layout
 
 \end_inset
@@ -2482,12 +2488,23 @@ ukupno
 \end_layout
 
 \begin_layout Standard
+S obzirom da kandidat nije ranije biran u naučna zvanja, u tabelama koje
+ slede dat je presek poena iz koga se vidi da kandidat pojedinačno zadovoljava
+ uslove za izbor u zvanja naučni saradnik i viši naučni saradnik u oblasti
+ prirodno--matematičkih nauka, prema propisanim kriterijumima za sticanje
+ odgovarajućih naučnih zvanja.
+\end_layout
+
+\begin_layout Standard
 Propisani minimalni kriterijumi za sticanje zvanja 
+\series bold
+naučni saradnik 
+\series default
+i 
 \series bold
 viši naučni saradnik
 \series default
- u oblasti prirodno--matematičkih i medicinskih nauka, kao i ostvareni poeni
- kandidata, sumirani su u sledećoj tabeli:
+, sa ostvarenim poenima kandidata, sumirani su u sledećim tabelama:
 \end_layout
 
 \begin_layout Standard
@@ -2511,7 +2528,198 @@ viši naučni saradnik
 \begin_inset Text
 
 \begin_layout Plain Layout
+Zvanje: naučni savetnik
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ukupno 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $M_{10}+M_{20}+M_{31}+M_{32}+$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $M_{11}+M_{12}+M_{21}+M_{22}+M_{23}+M_{24}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(radovi do 2009 godine)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $M_{33}+M_{41}+M_{42}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+potrebno 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+16 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ostvareno 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+26
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+26
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+21
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="4">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Zvanje: viši naučni savetnik
 \end_layout
 
 \end_inset
@@ -2617,7 +2825,7 @@ potrebno
 \begin_inset Text
 
 \begin_layout Plain Layout
- 
+40 
 \end_layout
 
 \end_inset
@@ -2626,7 +2834,7 @@ potrebno
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+28
 \end_layout
 
 \end_inset
@@ -2646,7 +2854,7 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
-76 
+80 
 \end_layout
 
 \end_inset
@@ -2655,7 +2863,7 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
- 
+63 
 \end_layout
 
 \end_inset
@@ -2664,7 +2872,7 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+35
 \end_layout
 
 \end_inset
@@ -2681,7 +2889,9 @@ ostvareno
 \begin_inset VSpace bigskip
 \end_inset
 
-
+Iz prethodne tabele se vidi da kandidat dr Irina Branović zadovoljava premašuje
+ minimalne kvantitativne kriterijume za zvanja naučni saradnik i viši naučni
+ saradnik, pojedinačno i u zbiru.
 \end_layout
 
 \begin_layout Standard
@@ -2710,10 +2920,17 @@ Kvalitativni pokazatelji naučnog doprinosa kandidata
 \end_layout
 
 \begin_layout Standard
-Irina Branović je među članovima naučnog i organizacionog odbora konferencije
+1.4 Članstva u uređivackim odborima časopisa, uredivanje monografija, recenzije
+ naučnih radova i projekata
+\end_layout
+
+\begin_layout Standard
+dr Irina Branović je među članovima naučnog i organizacionog odbora konferencije
  YuInfo.
- Recenzent je u više istaknutih međunarodnih časopisa (IEEE Transactions
- on VLSI Systems (2 recenzije), Journal on Embedded Systems (3 recenzije)).
+ Takođe je aktivna kao recenzent za naučne casopise, tako da je u proteklih
+ desetak godina recenzirala preko 20 naučnih radova.
+ Neki od časopisa za koje je recenzirala naučne radove su: IEEE Transactions
+ on VLSI Systems, Journal on Embedded Systems.
 \end_layout
 
 \begin_layout Standard
@@ -2733,9 +2950,11 @@ Irina Branović je među članovima naučnog i organizacionog odbora konferencij
 \end_inset
 
 
-\series bold
-3.
- Organizacija naučnog rada
+\end_layout
+
+\begin_layout Standard
+\noindent
+dr Irina Branović je bila predsednik komisije za odbranu doktorske disertacije
 \end_layout
 
 \begin_layout Standard
@@ -2743,6 +2962,30 @@ Irina Branović je među članovima naučnog i organizacionog odbora konferencij
 \begin_inset VSpace bigskip
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+2.3 Pedagoski rad 
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+dr Irina Branović predaje tri predmeta na doktorskim studijama racunarstva
+ Prirodno-matematickog fakulteta Univerziteta u Nisu: Algebarska teorija
+ grafova (od 2008.
+ godine); Algebarska kombinatorika (od 2008.
+ godine); Primena spektara grafova u racunarstvu (od 2013.
+ godine).
+\end_layout
+
+\begin_layout Standard
+\noindent
 
 \series bold
 4.
@@ -4012,8 +4255,9 @@ Katz, Frank H.
 \end_layout
 
 \begin_layout Standard
-Kako se iz navedenih podataka može zaključiti, sedam publikacija dr Irine
- Branović citirano je ukupno više od 120 puta u svetskoj naučnoj literaturi.
+Kako se iz navedenih podataka može zaključiti, barem sedam publikacija dr
+ Irine Branović citirano je ukupno više od 120 puta u svetskoj naučnoj literatur
+i.
  Rezultati Irine Branović citirani su u raznorodnim publikacijama, počev
  od doktorskih teza i istraživačkih izveštaja sa renomiranih svetskih univerzite
 ta, preko saopštenja na međunarodnim sku\SpecialChar \-
