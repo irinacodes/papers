@@ -199,7 +199,8 @@ Dr Irina Branović Balović zaposlena je u Matematičkom institutu SANU sa
 \end_inset
 
 godine.
- 
+ U zvanje docenta izabrana je 2010.
+ godine na Univerzitetu Singidunum i ranije nije birana u naučna zvanja.
 \end_layout
 
 \begin_layout Standard
@@ -260,16 +261,32 @@ Poslediplomske doktorske studije upisala je 2001.
 godine kao stipendista Departmana za Informatičko inženjerstvo Univerziteta
  u Sijeni, Italija.
  Doktorska instraživanja bila su orijentisana na poboljšanje efikasnosti
- algoritama za šifrovanje javnim ključem u embedded procesorima.
+ algoritama za šifrovanje javnim ključem u 
+\begin_inset Quotes eld
+\end_inset
+
+embedded
+\begin_inset Quotes erd
+\end_inset
+
+ procesorima.
  Maja 2005.
 \begin_inset space ~
 \end_inset
 
 godine odbranila je doktorsku tezu pod naslovom 
 \series bold
-"Instruction Set Extensions for Elliptic Curve Cryptography over Binary
- Finite Fields"
+
+\begin_inset Quotes eld
+\end_inset
+
+Instruction Set Extensions for Elliptic Curve Cryptography over Binary Finite
+ Fields
 \series default
+
+\begin_inset Quotes erd
+\end_inset
+
 .
  Doktorat je nostrifikovan na Univerzitetu Singidunum Rešenjem o priznavanju
  strane visokoškolske ustanove od 23.03.2010.
@@ -332,20 +349,34 @@ Dugi niz godina bavila se prevođenjem strane računarske literature za izdavač
 \begin_layout Standard
 Nakon povratka u Srbiju, u periodu 2010 - 2014 radila je kao docent na Univerzit
 etu Singidunum u Beogradu, gde je bila angažovana na predmetima Objektno
- - orijentisano programiranje, Internet tehnologije, Menadžment informacioni
- sistemi, Napredno Java programiranje.
+ - orijentisano programiranje, Internet tehnologije, Informacioni sistemi,
+ Napredno Java programiranje.
  Iz ovog perioda datiraju udžbenici za pomenute predmete koji su i dalje
  u upotrebi na Univerzitetu Singidunum.
  Tokom istog perioda bila je saradnik na dva projekta tehničko-tehnološkog
- razvoja, "Razvoj novih informaciono komunikacionih tehnologija korišćenjem
- matematičkih metoda sa primenama u medicine, telekomunikacijama, energetici,
- zaštiti nacionalne baštine i obrazovanju" kojim rukovodi dr Zoran Og\SpecialChar \-
+ razvoja, 
+\begin_inset Quotes eld
+\end_inset
+
+Razvoj novih informaciono komunikacionih tehnologija korišćenjem matematičkih
+ metoda sa primenama u medicine, telekomunikacijama, energetici, zaštiti
+ nacionalne baštine i obrazovanju
+\begin_inset Quotes erd
+\end_inset
+
+ kojim rukovodi dr Zoran Og\SpecialChar \-
 nja\SpecialChar \-
 no\SpecialChar \-
-vić,
- i "Istraživanje tehničko tehnološke, kadrovske i organizacione osposobljenosti
- Železnica Srbije sa aspekta tekućih i budućih zahteva Evropske Unije" kojim
- rukovodi dr Miloš Ivić sa Saobraćajnog fakulteta Univerziteta u Beogradu.
+vić, i 
+\begin_inset Quotes eld
+\end_inset
+
+Istraživanje tehničko tehnološke, kadrovske i organizacione osposobljenosti
+ Železnica Srbije sa aspekta tekućih i budućih zahteva Evropske Unije
+\begin_inset Quotes erd
+\end_inset
+
+ kojim rukovodi dr Miloš Ivić sa Saobraćajnog fakulteta Univerziteta u Beogradu.
  U okviru projekta Saobraćajnog fakulteta bavila se problemima rutiranja
  vozila, ras\SpecialChar \-
 po\SpecialChar \-
@@ -361,11 +392,21 @@ Od oktobra 2014.
  dr Irina Branović angažovana je na Matematičkom Instututu SANU kao saradnik
  na projektima koje Institut koordinira.
  Oblasti istraživanja kojima se trenutno bavi su raznorodne i obuhvataju
- cloud sisteme, energetsku efikasnost, edukaciju u računarstvu, 3D mo\SpecialChar \-
+ sisteme 
+\begin_inset Quotes eld
+\end_inset
+
+u oblaku
+\begin_inset Quotes erd
+\end_inset
+
+ (engl.
+ cloud computing), energetsku efikasnost, edukaciju u računarstvu, 3D mo\SpecialChar \-
 de\SpecialChar \-
 li\SpecialChar \-
 ra\SpecialChar \-
-nje.
+nj
+e.
  Istovremeno je aktivno angažovana i kao vodeći softver inženjer na različitim
  komercijalnim projektima.
 \end_layout
@@ -392,9 +433,9 @@ Bibliografija kandidata - kvantitativni kriterijumi
 \end_layout
 
 \begin_layout Standard
-S obzirom da kandidat ranije nije biran u istraživačka zvanja, vec samo
- u nastavnička zvanja, ovde dajemo najpre spisak, a zatim i prikaz svih
- objavljenih naučnih radova kandidata.
+S obzirom da kandidatkinja ranije nije birana u istraživačka zvanja, već
+ samo u nastavnička zvanja, ovde dajemo spisak naučnih radova koje je objavila
+ sa kratkim apstraktima.
 \end_layout
 
 \begin_layout Standard
@@ -461,10 +502,10 @@ dp/3838380118/ref=sr_1_1?s=books&ie=UTF8
 \begin_layout Quote
 
 \family sans
-Rezime najvažnijih doprinosa doktorske disertacije.
- Započinje uvodom u u teoriju brojeva i problematiku šifrovanja eliptičkim
- krivama, nastavlja se pregledom aritmetike u konačnim poljima i diskusijom
- različitih metoda implementiranja operacija nad eliptičkim krivama u softveru.
+Monografija započinje uvodom u teoriju brojeva i problematiku šifrovanja
+ eliptičkim krivama, nastavlja se pregledom aritmetike u konačnim poljima
+ i diskusijom različitih metoda implementiranja operacija nad eliptičkim
+ krivama u softveru.
  Opisan je test softver razvijen za potrebe procene performansi kriptografskih
  operacija nad krivama, kao i metodologija izvođenja eksperimenata na simulatoru
  arhitekture procesora.
@@ -856,9 +897,12 @@ Ukazuje na neophodnost nezavisnog testiranja instrastrukture za elektronsko
 
 \end_deeper
 \begin_layout Enumerate
-I.Franc, I.Stanković, I.
- Branović, R.Popović, Ontology Based Model of Digital Forensic Virtual Lab
- and Curriculum Design, 
+I.
+ Franc, I.
+ Stanković, I.
+ Branović, R.
+ Popović, Ontology Based Model of Digital Forensic Virtual Lab and Curriculum
+ Design, 
 \begin_inset ERT
 status collapsed
 
@@ -917,8 +961,11 @@ S.
  Mladenović, S.Vesković, S.
  Janković, S.
  Aćimović, I.
- Branović, Heuristic Based Real-Time Train Rescheduling System, prihvaćen
- za objavljivanje, 
+ Branović, 
+\begin_inset Newline newline
+\end_inset
+
+Heuristic Based Real-Time Train Rescheduling System, 
 \begin_inset ERT
 status collapsed
 
@@ -953,7 +1000,11 @@ status open
 
 \end_inset
 
-, 2015.
+, 2015,
+\begin_inset Newline newline
+\end_inset
+
+ http://onlinelibrary.wiley.com/doi/10.1002/net.21625/abstract
 \end_layout
 
 \begin_deeper
@@ -1144,7 +1195,7 @@ status open
 
 \end_inset
 
-, Dovepress Publishing, Vol 2, pp.
+, Dovepress Publishing, Vol 3, pp.
  1-13, 2015.
  
 \begin_inset Newline newline
@@ -1426,32 +1477,9 @@ http://www.thinkmind.org/download.php?articleid=iciw_2012_8_30_20176
 \begin_layout Quote
 
 \family sans
-Opis razvijene inovativne platforme za projektovanje kurikuluma predmeta,
+Prikaz razvijene inovativne platforme za projektovanje kurikuluma predmeta,
  automatsko ocenjivanje i praćenje napretka studenta u virtuelnom okruženju.
  
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-M.
- Živković, I.
- Branović, D.
- Marković, R.
- Popović, Energy efficient security architecture for wireless sensor networks,
- Telecommunications Forum (TELFOR), Srbija, Beograd, pp.
- 1524 - 1527, ISBN 978-1-4673-2983-5, 2012.
-\begin_inset Newline newline
-\end_inset
-
-http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6419510 
-\end_layout
-
-\begin_deeper
-\begin_layout Quote
-
-\family sans
-Preliminarni rezultati istraživanja objavljenih naknadno u časopisu Telecommunic
-ation Systems.
 \end_layout
 
 \end_deeper
@@ -1484,7 +1512,7 @@ I.
  Branović, D.
  Marković, R.
  Popović, V.
- Tomasević, D.
+ Tomašević, D.
  Živković, Development of modular virtual lab for introductory computing
  courses, IEEE Global Engineering Education Conference (EDUCON), Berlin,
  Germany, pp.
@@ -1525,7 +1553,7 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6716392
 
 \family sans
 Opisuje integraciju virtuelne laboratorije za bežične senzorske mreže u
- #D okruženje za učenje.
+ 3D okruženje za učenje.
 \end_layout
 
 \end_deeper
@@ -1557,9 +1585,12 @@ Opisuje pozitivne efekte integracije simulatora za bežične senzorske mreže
 I.
  Branovic, R.
  Giorgi, N.
- Jovanovic, R.Popovic, M.Zivkovic, B.Nikolic, Integration of simulators in
- virtual 3D computer science classroom, EDUCON, Istanbul, Turkey, pp.
- 1164 - 1167, 2013.
+ Jovanovic, R.
+ Popovic, M.
+ Zivkovic, B.
+ Nikolic, Integration of simulators in virtual 3D computer science classroom,
+ EDUCON, Istanbul, Turkey, pp.
+ 1164 - 1167, 2014.
 \begin_inset Newline newline
 \end_inset
 
@@ -1675,8 +1706,15 @@ S.
  Milinković, I.
  Branović, K.
  Dimanoski, Simulacioni model saobraćaja vozova na jednokolosečnoj pruzi
- u funkciji kvaliteta usluge, III međunarodni simpozijum "Novi horizonti
- saobraćaja i komunikacija 2011", pp.
+ u funkciji kvaliteta usluge, III međunarodni simpozijum 
+\begin_inset Quotes eld
+\end_inset
+
+Novi horizonti saobraćaja i komunikacija 2011
+\begin_inset Quotes erd
+\end_inset
+
+, pp.
  43-47, Doboj, Bosna i Hercegovina, ISBN 978-99955-36-28-2, 2011.
  
 \end_layout
@@ -1698,8 +1736,15 @@ K.
  Stojić, S.
  Vesković, I.
  Branović, Model za determinisanje kvaliteta usluga u putničkom železničkom
- prevozu, III međunarodni simpozijum "Novi horizonti saobraćaja i komunikacija
- 2011", pp.
+ prevozu, III međunarodni simpozijum 
+\begin_inset Quotes eld
+\end_inset
+
+Novi horizonti saobraćaja i komunikacija 2011
+\begin_inset Quotes erd
+\end_inset
+
+, pp.
  43-47, Doboj, Bosna i Hercegovina, ISBN 978-99955-36-28-2, 2011.
 \end_layout
 
@@ -1718,8 +1763,15 @@ S.
  Janković, S.
  Mladenović, I.
  Branović, S.
- Milinković, Cloud computing u saobraćaju, III međunarodni simpozijum "Novi
- horizonti saobraćaja i komunikacija 2011", pp.
+ Milinković, Cloud computing u saobraćaju, III međunarodni simpozijum 
+\begin_inset Quotes eld
+\end_inset
+
+Novi horizonti saobraćaja i komunikacija 2011
+\begin_inset Quotes erd
+\end_inset
+
+, pp.
  692-697, Doboj, Bosna i Hercegovina, ISBN 978-99955-36-28-2, 2011.
  
 \end_layout
@@ -1777,8 +1829,6 @@ Opisan je proces razvoja 3D virtuelne učionice za obuku i osposobljavanje
 
 \end_deeper
 \begin_layout Enumerate
-
-\color red
 M.
  Milosavljević, I.
  Branović, S.
@@ -1789,8 +1839,6 @@ M.
 
 \begin_layout Enumerate
 \noindent
-
-\color red
 B.
  Mitrović, S.
  Milinković, I.
@@ -1814,6 +1862,17 @@ M.
  
 \end_layout
 
+\begin_deeper
+\begin_layout Quote
+
+\family sans
+Predstavljen je simulacioni model saobraćaja vozova u sistemu BG voza čiji
+ je cilj analiza efekata pojave konfliktnih situacija u saobraćaju vozova
+ i proračun vremena vožnje na ovim relacijama kako bi se uz primenu računara
+ prikazalo ponašanje realnog sistema.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 \noindent
 B.
@@ -1831,6 +1890,19 @@ B.
 https://www.yuinfo.org/zbornik_2014_WEB%20verzija.pdf
 \end_layout
 
+\begin_deeper
+\begin_layout Quote
+
+\family sans
+Predstavlja modele za izbor lokacije mernih stanica za pravovremeno otkrivanje
+ defekata na mreži železnica u Srbiji.
+ Prvi model koristi višekriterijumsku analizu za određivanje makro lokacije
+ mernih stanica (sekciju), a drugi model, zasnovan na fazi logici određuje
+ mikro lokaciju za postavljanje merne stanice na mreži Železnica Srbije.
+ 
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \noindent
 \begin_inset ERT
@@ -1945,7 +2017,7 @@ im prelazima.
 
 \end_deeper
 \begin_layout Standard
-\begin_inset VSpace bigskip
+\begin_inset Newpage newpage
 \end_inset
 
 
@@ -1995,7 +2067,7 @@ status collapsed
 
 \end_inset
 
- radovi kandidata se kvantitativno vrednuju na sledeći način:
+ radovi kandidatkinje se kvantitativno vrednuju na sledeći način:
 \end_layout
 
 \begin_layout Standard
@@ -2230,7 +2302,7 @@ M33
 \begin_inset Text
 
 \begin_layout Plain Layout
-16 
+15 
 \end_layout
 
 \end_inset
@@ -2239,7 +2311,7 @@ M33
 \begin_inset Text
 
 \begin_layout Plain Layout
-16
+15
 \end_layout
 
 \end_inset
@@ -2458,7 +2530,7 @@ ukupno
 \begin_inset Text
 
 \begin_layout Plain Layout
-39 
+38 
 \end_layout
 
 \end_inset
@@ -2467,7 +2539,7 @@ ukupno
 \begin_inset Text
 
 \begin_layout Plain Layout
-80 
+79 
 \end_layout
 
 \end_inset
@@ -2488,14 +2560,6 @@ ukupno
 \end_layout
 
 \begin_layout Standard
-S obzirom da kandidat nije ranije biran u naučna zvanja, u tabelama koje
- slede dat je presek poena iz koga se vidi da kandidat pojedinačno zadovoljava
- uslove za izbor u zvanja naučni saradnik i viši naučni saradnik u oblasti
- prirodno--matematičkih nauka, prema propisanim kriterijumima za sticanje
- odgovarajućih naučnih zvanja.
-\end_layout
-
-\begin_layout Standard
 Propisani minimalni kriterijumi za sticanje zvanja 
 \series bold
 naučni saradnik 
@@ -2504,20 +2568,13 @@ i
 \series bold
 viši naučni saradnik
 \series default
-, sa ostvarenim poenima kandidata, sumirani su u sledećim tabelama:
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace medskip
-\end_inset
-
-
+, sa ostvarenim poenima kandidatkinje, sumirani su u sledećim tabelama:
 \end_layout
 
 \begin_layout Standard
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="4" columns="4">
+<lyxtabular version="3" rows="8" columns="4">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="center" valignment="top">
@@ -2528,7 +2585,7 @@ viši naučni saradnik
 \begin_inset Text
 
 \begin_layout Plain Layout
-Zvanje: naučni savetnik
+Zvanje: naučni saradnik
 \end_layout
 
 \end_inset
@@ -2537,7 +2594,7 @@ Zvanje: naučni savetnik
 \begin_inset Text
 
 \begin_layout Plain Layout
-Ukupno 
+ 
 \end_layout
 
 \end_inset
@@ -2558,7 +2615,7 @@ Ukupno
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $M_{11}+M_{12}+M_{21}+M_{22}+M_{23}+M_{24}$
+\begin_inset Formula $M_{11}+M_{12}+M_{21}$
 \end_inset
 
 
@@ -2572,7 +2629,7 @@ Ukupno
 \begin_inset Text
 
 \begin_layout Plain Layout
-(radovi do 2009 godine)
+
 \end_layout
 
 \end_inset
@@ -2602,45 +2659,10 @@ Ukupno
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\end_layout
-
+\begin_inset Formula $M_{22}+M_{23}+M_{24}$
 \end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
 
-\begin_layout Plain Layout
-potrebno 
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-16 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-10 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5
 \end_layout
 
 \end_inset
@@ -2651,7 +2673,7 @@ potrebno
 \begin_inset Text
 
 \begin_layout Plain Layout
-ostvareno 
+potrebno 
 \end_layout
 
 \end_inset
@@ -2660,7 +2682,7 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
-26
+16 
 \end_layout
 
 \end_inset
@@ -2669,7 +2691,7 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
-26
+10 
 \end_layout
 
 \end_inset
@@ -2678,48 +2700,18 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
-21
+5
 \end_layout
 
 \end_inset
 </cell>
 </row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace medskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="4" columns="4">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
 <row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Zvanje: viši naučni savetnik
+Zvanje: 
 \end_layout
 
 \end_inset
@@ -2728,7 +2720,7 @@ Zvanje: viši naučni savetnik
 \begin_inset Text
 
 \begin_layout Plain Layout
-Ukupno 
+
 \end_layout
 
 \end_inset
@@ -2759,11 +2751,11 @@ Ukupno
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+viši naučni saradnik
 \end_layout
 
 \end_inset
@@ -2803,34 +2795,34 @@ Ukupno
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-potrebno 
+potrebno
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-64 
+48
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-40 
+40
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2841,11 +2833,51 @@ potrebno
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-ostvareno 
+Ukupno potrebno
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+64
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+33
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Ukupno ostvareno
 \end_layout
 
 \end_inset
@@ -2854,7 +2886,9 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
-80 
+
+\series bold
+79
 \end_layout
 
 \end_inset
@@ -2863,7 +2897,9 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
-63 
+
+\series bold
+62
 \end_layout
 
 \end_inset
@@ -2872,6 +2908,8 @@ ostvareno
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 35
 \end_layout
 
@@ -2889,15 +2927,25 @@ ostvareno
 \begin_inset VSpace bigskip
 \end_inset
 
-Iz prethodne tabele se vidi da kandidat dr Irina Branović zadovoljava premašuje
- minimalne kvantitativne kriterijume za zvanja naučni saradnik i viši naučni
- saradnik, pojedinačno i u zbiru.
+
+\end_layout
+
+\begin_layout Standard
+S obzirom da kandidatkinja nije ranije birana u naučna zvanja, iz tabele
+ se vidi da ona zadovoljava i premašuje minimalne uslove za izbor u zvanje
+ viši naučni saradnik u oblasti prirodno--matematičkih nauka, prema propisanim
+ kriterijumima za sticanje odgovarajućih naučnih zvanja, pojedinačno i u
+ zbiru za zvanja naučni saradnik i viši naučni saradnik.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 
 \series bold
-Kvalitativni pokazatelji naučnog doprinosa kandidata
+Kvalitativni pokazatelji naučnog doprinosa kandidatkinje
 \end_layout
 
 \begin_layout Standard
@@ -2912,25 +2960,19 @@ Kvalitativni pokazatelji naučnog doprinosa kandidata
 \end_layout
 
 \begin_layout Standard
-\noindent
-\begin_inset VSpace bigskip
-\end_inset
-
-
+Dr Irina Branović je aktivna kao član programskog i organizacionog odbora
+ konferencije YuInfo.
+ Takođe je više godina presedavala sesijama za međunarodnu konferenciju
+ TELFOR.
 \end_layout
 
 \begin_layout Standard
-1.4 Članstva u uređivackim odborima časopisa, uredivanje monografija, recenzije
- naučnih radova i projekata
-\end_layout
-
-\begin_layout Standard
-dr Irina Branović je među članovima naučnog i organizacionog odbora konferencije
- YuInfo.
- Takođe je aktivna kao recenzent za naučne casopise, tako da je u proteklih
- desetak godina recenzirala preko 20 naučnih radova.
+Kandidatkinja je aktivna i kao recenzent za naučne časopise, tako da je
+ u proteklih desetak godina recenzirala preko 20 naučnih radova.
  Neki od časopisa za koje je recenzirala naučne radove su: IEEE Transactions
- on VLSI Systems, Journal on Embedded Systems.
+ on VLSI Systems, Journal on Embedded Systems, TELFOR Journal.
+ Bila je i u više navrata recenzent akreditacione komisije Ministarstva
+ prosvete, nauke i tehnološkog razvoja.
 \end_layout
 
 \begin_layout Standard
@@ -2945,43 +2987,80 @@ dr Irina Branović je među članovima naučnog i organizacionog odbora konferen
 \end_layout
 
 \begin_layout Standard
-\noindent
-\begin_inset VSpace bigskip
+Iako je dr Irina Branović aktivno učestvovala u nastajanju više doktorskih
+ disertacija i magistarskih radova nekoliko odličnih studenata računarstva,
+ to nije i formalno ozvaničeno.
+ Godine 2014.
+ bila je predsednik komisije za odbranu doktorske disertacije Marka Markovića
+ na temu 
+\begin_inset Quotes eld
 \end_inset
 
+Softverski simulator za edukaciju u oblasti inteligentnih sistema
+\begin_inset Quotes erd
+\end_inset
 
+ na Univerzitetu Singidunum.
 \end_layout
 
 \begin_layout Standard
 \noindent
-dr Irina Branović je bila predsednik komisije za odbranu doktorske disertacije
+dr Irina Branović predavala je četiri predmeta na osnovnim studijama računarstva
+ Univerziteta Singidunum u Beogradu: 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Informacioni sistemi (2010 - 2014); 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Objektno orijentisano programiranje (2011 - 2014); 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Programski sistemi - napredno Java programiranje (2013 - 2014);
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Internet tehnologije (2013 - 2014).
+ 
 \end_layout
 
 \begin_layout Standard
 \noindent
-\begin_inset VSpace bigskip
-\end_inset
-
-
+Autor je univerzitetskog udžbenika Objektno orijentisano programiranje i
+ koautor udž\SpecialChar \-
+be\SpecialChar \-
+ni\SpecialChar \-
+ka Operativni sistemi, objavljenih 2011.
+ godine.
+ Takođe je bila angažovana kao predavač na kursu Savremeni računarski sistemi
+ master studija, kao i na kursu Ekspertski sistemi doktorskih studija Univerzite
+ta Singidunum.
+ Kroz predavanja i konsultacije u okviru predmeta na doktorskim studijama
+ na Univerzitetu Singidunum aktivno je pomagala uključivanju mladih u naučno-ist
+raživački rad.
+ Kandidatkinja ima dugogodišnju saradnju sa Univerzitetom u Sijeni čiji
+ je rezultat nekoliko zajednički objavljenih radova u periodu posle doktorata.
 \end_layout
 
 \begin_layout Standard
 \noindent
 
 \series bold
-2.3 Pedagoski rad 
+3.
+ Organizacija naučnog rada
 \end_layout
 
 \begin_layout Standard
-\noindent
-
-\series bold
-dr Irina Branović predaje tri predmeta na doktorskim studijama racunarstva
- Prirodno-matematickog fakulteta Univerziteta u Nisu: Algebarska teorija
- grafova (od 2008.
- godine); Algebarska kombinatorika (od 2008.
- godine); Primena spektara grafova u racunarstvu (od 2013.
- godine).
+Dr Irina Branović je tokom 2014.
+ bila ko-rukovodilac projekta Simulacija hidrauličnog cilindra i 3D vizuelizacij
+a u realnom vremenu, koji se realizuje u Inovacionom centru Elektrotehničkog
+ fakulteta u Beogradu.
 \end_layout
 
 \begin_layout Standard
@@ -3001,9 +3080,13 @@ dr Irina Branović predaje tri predmeta na doktorskim studijama racunarstva
 
 \begin_layout Standard
 \noindent
-Najznačajniji rezultati kandidata objavljeni su u vrhunskim međunarodnim
+Najznačajniji rezultati kandidatkinje objavljeni su u vrhunskim me\SpecialChar \-
+đu\SpecialChar \-
+na\SpecialChar \-
+rod\SpecialChar \-
+nim
  časopisima (IEEE Transactions on Computers, IF=1.659, Renewable and Sustainable
- Energy Reviews, IF 5.901).
+ Energy Reviews, IF = 5.901).
  
 \begin_inset ERT
 status collapsed
@@ -3069,8 +3152,8 @@ medskip
 U vezi sa citiranošću rezultata dr Irine Branović u naučnoj literaturi,
  komisiji su stav\SpecialChar \-
 lje\SpecialChar \-
-ni na uvid sledeći podaci (autocitati, kako samog kandidata,
- tako i njegovih koautora ne navode se).
+ni na uvid sledeći podaci (autocitati, kako same kandidatkin
+je, tako i njenih koautora ne navode se).
  Videti takođe Google Scholar profil:
 \begin_inset Newline newline
 \end_inset
@@ -3123,8 +3206,15 @@ tt citira se u}
 
 \begin_layout Itemize
 Vollmar, Kenneth, and Pete Sanderson.
- "MARS: an education-oriented MIPS assembly language simulator." ACM SIGCSE
- Bulletin.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+MARS: an education-oriented MIPS assembly language simulator.
+\begin_inset Quotes erd
+\end_inset
+
+ ACM SIGCSE Bulletin.
  Vol.
  38.
  No.
@@ -3135,13 +3225,28 @@ Vollmar, Kenneth, and Pete Sanderson.
 \begin_layout Itemize
 Chen, Yu, and Hessam S.
  Sarjoughian.
- "A component-based simulator for MIPS32 processors." Simulation (2009).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A component-based simulator for MIPS32 processors.
+\begin_inset Quotes erd
+\end_inset
+
+ Simulation (2009).
 \end_layout
 
 \begin_layout Itemize
 Sarjoughian, Hessam, Yu Chen, and Kevin Burger.
- "A component-based visual simulator for mips32 processors." Frontiers in
- Education Conference, 2008.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A component-based visual simulator for mips32 processors.
+\begin_inset Quotes erd
+\end_inset
+
+ Frontiers in Education Conference, 2008.
  FIE 2008.
  38th Annual.
  IEEE, 2008.
@@ -3149,42 +3254,88 @@ Sarjoughian, Hessam, Yu Chen, and Kevin Burger.
 
 \begin_layout Itemize
 Vegdahl, Steven R.
- "MIPSPILOT: A compiler-oriented MIPS simulator." Journal of Computing Sciences
- in Colleges 24.2 (2008): 32-39.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+MIPSPILOT: A compiler-oriented MIPS simulator.
+\begin_inset Quotes erd
+\end_inset
+
+ Journal of Computing Sciences in Colleges 24.2 (2008): 32-39.
 \end_layout
 
 \begin_layout Itemize
 ElAarag, Hala.
- "A complete design of a RISC processor for pedagogical purposes." Journal
- of Computing Sciences in Colleges 25.2 (2009): 205-213.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A complete design of a RISC processor for pedagogical purposes.
+\begin_inset Quotes erd
+\end_inset
+
+ Journal of Computing Sciences in Colleges 25.2 (2009): 205-213.
 \end_layout
 
 \begin_layout Itemize
 Black, Michael David, and Priyadarshini Komala.
- "A full system x86 simulator for teaching computer organization." Proceedings
- of the 42nd ACM technical symposium on Computer science education.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A full system x86 simulator for teaching computer organization.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Proceedings of the 42nd ACM technical symposium on Computer science education.
  ACM, 2011.
 \end_layout
 
 \begin_layout Itemize
 Soares, Sandro Neves, and Flávio Rech Wagner.
- "Design space exploration of embedded processors in computer architecture
- education using t&d-bench." Frontiers in Education Conference, 36th Annual.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Design space exploration of embedded processors in computer architecture
+ education using t&d-bench.
+\begin_inset Quotes erd
+\end_inset
+
+ Frontiers in Education Conference, 36th Annual.
  IEEE, 2006.
 \end_layout
 
 \begin_layout Itemize
 Soares, Sandro Neves, and Flávio Rech Wagner.
- "T&D-Bench—Innovative Combined Support for Education and Research in Computer
- Architecture and Embedded Systems." Education, IEEE Transactions on 54.4
- (2011): 675-682.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+T&D-Bench—Innovative Combined Support for Education and Research in Computer
+ Architecture and Embedded Systems.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Education, IEEE Transactions on 54.4 (2011): 675-682.
 \end_layout
 
 \begin_layout Itemize
 Rodrigues, Rafael Porto, and CAPS MARTINS.
- "Ensino e aprendizado de pipeline de modo motivante e eficiente utilizando
- simuladores didáticos." WORKSHOP SOBRE EDUCAÇÃO EM ARQUITETURA DE COMPUTADORES
- (WEAC).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ensino e aprendizado de pipeline de modo motivante e eficiente utilizando
+ simuladores didáticos.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+WORKSHOP SOBRE EDUCAÇÃO EM ARQUITETURA DE COMPUTADORES (WEAC).
  2008.
 \end_layout
 
@@ -3192,35 +3343,74 @@ Rodrigues, Rafael Porto, and CAPS MARTINS.
 Stojkovic, A., J.
  Djordjevic, and B.
  Nikolic.
- "WASP: a web-based simulator for an educational pipelined processor." Internatio
-nal Journal of Electrical Engineering Education 44.3 (2007): 197-215.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+WASP: a web-based simulator for an educational pipelined processor.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+International Journal of Electrical Engineering Education 44.3 (2007): 197-215.
 \end_layout
 
 \begin_layout Itemize
 Fritz, David, Wira Mulia, and Sohum Sohoni.
- "The progressive learning platform." Workshop on Computer Architecture Education.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The progressive learning platform.
+\begin_inset Quotes erd
+\end_inset
+
+ Workshop on Computer Architecture Education.
  2011.
 \end_layout
 
 \begin_layout Itemize
 Kabir, Md Tahsin, Mohammad Tahmid Bari, and Abul L.
  Haque.
- "ViSiMIPS: Visual simulator of MIPS32 pipelined processor." Computer Science
- & Education (ICCSE), 2011 6th International Conference on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+ViSiMIPS: Visual simulator of MIPS32 pipelined processor.
+\begin_inset Quotes erd
+\end_inset
+
+ Computer Science & Education (ICCSE), 2011 6th International Conference
+ on.
  IEEE, 2011.
 \end_layout
 
 \begin_layout Itemize
 Sousa, BF de, et al.
- "WebSimple-MIPS: Simulador Web-based do Pipeline do MIPS." Workshop em Sistemas
- Computacionais de Alto Desempenho.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+WebSimple-MIPS: Simulador Web-based do Pipeline do MIPS.
+\begin_inset Quotes erd
+\end_inset
+
+ Workshop em Sistemas Computacionais de Alto Desempenho.
  2008.
 \end_layout
 
 \begin_layout Itemize
 Avelar, Cíntia P., et al.
- "MPDSim: Simulador didático do Pipeline do MIPS de 32 bits." Workshop sobre
- Educação em Arquitetura de Computadores WEAC.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+MPDSim: Simulador didático do Pipeline do MIPS de 32 bits.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Workshop sobre Educação em Arquitetura de Computadores WEAC.
  Vol.
  2008.
  2008.
@@ -3228,128 +3418,280 @@ Avelar, Cíntia P., et al.
 
 \begin_layout Itemize
 Azevedo, Hugo Costa, and Carlos Augusto Paiva da Silva Martins.
- "SIM-MIPS&HM-Simulador Didático do Nıvel ISA do MIPS e de Hierarquia de
- Memória." (2007): 1-4.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+SIM-MIPS&HM-Simulador Didático do Nıvel ISA do MIPS e de Hierarquia de Memória.
+\begin_inset Quotes erd
+\end_inset
+
+ (2007): 1-4.
 \end_layout
 
 \begin_layout Itemize
 Sohoni, Sohum, David Fritz, and Wira Mulia.
- "Transforming a microprocessors course through the progressive learning
- platform." ASEE Midwest Section, Russelville, AR (2011).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Transforming a microprocessors course through the progressive learning platform.
+\begin_inset Quotes erd
+\end_inset
+
+ ASEE Midwest Section, Russelville, AR (2011).
 \end_layout
 
 \begin_layout Itemize
 Casillo, Leonardo Augusto, and Ivan Saraiva Silva.
- "Adapting a low complexity datapath to MIPS-1." Programmable Logic (SPL),
- 2012 VIII Southern Conference on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Adapting a low complexity datapath to MIPS-1.
+\begin_inset Quotes erd
+\end_inset
+
+ Programmable Logic (SPL), 2012 VIII Southern Conference on.
  IEEE, 2012.
 \end_layout
 
 \begin_layout Itemize
 Black, Michael, and Nathaniel Waggoner.
- "Emumaker86: a hardware simulator for teaching CPU design." Proceeding of
- the 44th ACM technical symposium on Computer science education.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Emumaker86: a hardware simulator for teaching CPU design.
+\begin_inset Quotes erd
+\end_inset
+
+ Proceeding of the 44th ACM technical symposium on Computer science education.
  ACM, 2013.
 \end_layout
 
 \begin_layout Itemize
 Alnoukari, Mouhib, Moutasem Shafaamry, and Kinaz Aytouni.
- "Simulation for Computer Sciences Education." Communications of the ACS
- 6.1 (2013): 49-54.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Simulation for Computer Sciences Education.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Communications of the ACS 6.1 (2013): 49-54.
 \end_layout
 
 \begin_layout Itemize
 Calvo Valdés, Francisco Alejandro, José Félix Roldán Ramírez, and Alfonso
  San Miguel Sánchez.
- "Simulador del procesador MIPS sobre el formalismo DEVS." (2010).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Simulador del procesador MIPS sobre el formalismo DEVS.
+\begin_inset Quotes erd
+\end_inset
+
+ (2010).
 \end_layout
 
 \begin_layout Itemize
 Cosendey, Michael Martins, Rafael Henrique Brasil, and Carlos A.
  Paiva da Silva Martins.
- "SIPPIS MIPS: Um Novo Simulador de Pipeline do MIPS 32 bits para Auxílo
- à Educação em Arquitetura de Computadores."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+SIPPIS MIPS: Um Novo Simulador de Pipeline do MIPS 32 bits para Auxílo à
+ Educação em Arquitetura de Computadores.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Valdés, Francisco Alejandro Calvo, et al.
- "Simulador del procesador MIPS sobre el formalismo DEVS."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Simulador del procesador MIPS sobre el formalismo DEVS.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Sanderson, Pete, and Kenneth Vollmar.
- "MARS: An Education-Oriented MIPS Assembly Language Simulator." (2007):
- 239.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+MARS: An Education-Oriented MIPS Assembly Language Simulator.
+\begin_inset Quotes erd
+\end_inset
+
+ (2007): 239.
 \end_layout
 
 \begin_layout Itemize
 Borth, Marcelo Rafael, and Aldo Sergio de Oliveira.
- "ALBOR: um simulador didático para auxiliar no ensino e aprendizagem de
- instruções Assembly." ForScience 2.1 (2014): 1-16.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+ALBOR: um simulador didático para auxiliar no ensino e aprendizagem de instruçõe
+s Assembly.
+\begin_inset Quotes erd
+\end_inset
+
+ ForScience 2.1 (2014): 1-16.
 \end_layout
 
 \begin_layout Itemize
 Rivas Pérez, Manuel, et al.
- "Diseño e implementación de un simulador software basado en el procesador
- MIPS32." (2015).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Diseño e implementación de un simulador software basado en el procesador
+ MIPS32.
+\begin_inset Quotes erd
+\end_inset
+
+ (2015).
 \end_layout
 
 \begin_layout Itemize
 García, Andrés Ortiz, Julio Ortega Lopera, and Alberto Prieto Espinosa.
- "Departamento de Arquitectura y Tecnología de Computadores ETS Ingenieria
- Informática y de Telecomunicación Universidad de Granada."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Departamento de Arquitectura y Tecnología de Computadores ETS Ingenieria
+ Informática y de Telecomunicación Universidad de Granada.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Freitas, Alison RP, et al.
- "Arquitetura MIPS: desenvolvimento de um simulador." ANAIS do 9º.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Arquitetura MIPS: desenvolvimento de um simulador.
+\begin_inset Quotes erd
+\end_inset
+
+ ANAIS do 9º.
  FÓRUM DE INFORMÁTICA E TECNOLOGIA DE MARINGÁ: 44.
 \end_layout
 
 \begin_layout Itemize
 Torres, André LL, and Alisson V.
  Brito.
- "Extensão do Ptolemy para o ensino de Organização e Arquitetura de Computadores.
-" Workshop sobre Educação em Arquitetura de Computadores.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Extensão do Ptolemy para o ensino de Organização e Arquitetura de Computadores.
+\begin_inset Quotes erd
+\end_inset
+
+ Workshop sobre Educação em Arquitetura de Computadores.
 \end_layout
 
 \begin_layout Itemize
 Silva, Gabriel Costa, and Rafael Cassolato de Meneses.
- "Um Ambiente Computacional de Apoio à Aprendizagem de Instruções Assembly."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Um Ambiente Computacional de Apoio à Aprendizagem de Instruções Assembly.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Araujo, Marcio Roberto Dias, et al.
- "MIPS X-Ray: A MARS Simulator Plug-in for Teaching Computer Architecture."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+MIPS X-Ray: A MARS Simulator Plug-in for Teaching Computer Architecture.
+\begin_inset Quotes erd
+\end_inset
+
  International Journal of Recent Contributions from Engineering, Science
  & IT (iJES) 2.2 (2014): pp-36.
 \end_layout
 
 \begin_layout Itemize
 García, Andrés Ortiz, and Julio Ortega Lopera.
- "Alternativas de externalización para la interfaz de red.
- Análisis y optimización mediante simulación de sistema completo."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alternativas de externalización para la interfaz de red.
+ Análisis y optimización mediante simulación de sistema completo.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Mikki, Mohammad A., and Mohammed R.
  El-Khoudary.
- "Design of a Microsoft Version of MIPS Microprocessor Simulator."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Design of a Microsoft Version of MIPS Microprocessor Simulator.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Foleiss, Juliano H., Valeria D.
  Feltrim, and Ronaldo AL Gonçalves.
- "SASM: uma ferramenta para o ensino do processo de montagem e de conjunto
- de instruções CISC."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+SASM: uma ferramenta para o ensino do processo de montagem e de conjunto
+ de instruções CISC.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Nova, Bruno, Joao C.
  Ferreira, and António Araújo.
- "Tool to support computer architecture teaching and learning." Engineering
- Education (CISPEE), 2013 1st International Conference of the Portuguese
- Society for.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Tool to support computer architecture teaching and learning.
+\begin_inset Quotes erd
+\end_inset
+
+ Engineering Education (CISPEE), 2013 1st International Conference of the
+ Portuguese Society for.
  IEEE, 2013.
 \end_layout
 
@@ -3400,33 +3742,68 @@ tt citira se u}
 
 \begin_layout Itemize
 Rifa-Pous, Helena, and Jordi Herrera-Joancomartí.
- "Computational and energy costs of cryptographic algorithms on handheld
- devices." Future Internet 3.1 (2011): 31-48.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Computational and energy costs of cryptographic algorithms on handheld devices.
+\begin_inset Quotes erd
+\end_inset
+
+ Future Internet 3.1 (2011): 31-48.
 \end_layout
 
 \begin_layout Itemize
 Ugus, Osman, et al.
- "Optimized implementation of elliptic curve based additive homomorphic
- encryption for wireless sensor networks." arXiv preprint arXiv:0903.3900
- (2009).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Optimized implementation of elliptic curve based additive homomorphic encryption
+ for wireless sensor networks.
+\begin_inset Quotes erd
+\end_inset
+
+ arXiv preprint arXiv:0903.3900 (2009).
 \end_layout
 
 \begin_layout Itemize
 Ugus, Osman, Alban Hessler, and Dirk Westhoff.
- "Performance of additive homomorphic EC-Elgamal encryption for TinyPEDS."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Performance of additive homomorphic EC-Elgamal encryption for TinyPEDS.
+\begin_inset Quotes erd
+\end_inset
+
  6.
  Fachgespräch Sensornetzwerke (2007): 55.
 \end_layout
 
 \begin_layout Itemize
 Alia, Mohammad Ahmad, and Azman Samsudin.
- "A New Digital Signature Scheme Based on Mandelbrot and Julia Fractal Sets."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A New Digital Signature Scheme Based on Mandelbrot and Julia Fractal Sets.
+\begin_inset Quotes erd
+\end_inset
+
  American Journal of Applied Sciences 4.11 (2007): 850-858.
 \end_layout
 
 \begin_layout Itemize
 Alia, Mohammad Ahmad, and Azman Samsudin.
- "New Key Exchange Protocol Based on Mandelbrot and Julia Fractal Sets."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+New Key Exchange Protocol Based on Mandelbrot and Julia Fractal Sets.
+\begin_inset Quotes erd
+\end_inset
+
  International Journal of Computer Science and Network Security (IJCSNS)
  7.2 (2007): 302-307.
 \end_layout
@@ -3435,20 +3812,42 @@ Alia, Mohammad Ahmad, and Azman Samsudin.
 Ugus, Osman, I.
  Huss, and D.
  Laue.
- "Asymmetric homomorphic encryption transformation for securing distributed
- data storage in wireless sensor networks." Technische Universit” at Darmstadt-in
- Cooperation with NEC Europe Ltd., Heidelberg, Darmstadt (2007).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Asymmetric homomorphic encryption transformation for securing distributed
+ data storage in wireless sensor networks.
+\begin_inset Quotes erd
+\end_inset
+
+ Technische Universit” at Darmstadt-in Cooperation with NEC Europe Ltd.,
+ Heidelberg, Darmstadt (2007).
 \end_layout
 
 \begin_layout Itemize
 Alia, Mohammad Ahmad, and Azman Samsudin.
- "A New Public-Key Cryptosystem Based On Mandelbrot And Julia Fractal Sets."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A New Public-Key Cryptosystem Based On Mandelbrot And Julia Fractal Sets.
+\begin_inset Quotes erd
+\end_inset
+
  Asian journal of Information technology 6.5 (2007): 567-575.
 \end_layout
 
 \begin_layout Itemize
 Alia, Mohammad Ahmad, and Azman Bin Samsudin.
- "A New Digital Signature Scheme Based on Mandelbrot and Julia Fractal Sets."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A New Digital Signature Scheme Based on Mandelbrot and Julia Fractal Sets.
+\begin_inset Quotes erd
+\end_inset
+
  American Journal of Applied Sciences 4.11 (2007): 848-856.
 \end_layout
 
@@ -3456,14 +3855,29 @@ Alia, Mohammad Ahmad, and Azman Bin Samsudin.
 Al-Anie, Hayam K., Mohammad A.
  Alia, and Adnan A.
  Hnaif.
- "EVoting PROTOCOL BASED ON PUBLIC-KEY CRYPTOGRAPHY." International Journal
- Of Network Security & Its Applications 3.4 (2011): 87-98.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+EVoting PROTOCOL BASED ON PUBLIC-KEY CRYPTOGRAPHY.
+\begin_inset Quotes erd
+\end_inset
+
+ International Journal Of Network Security & Its Applications 3.4 (2011):
+ 87-98.
 \end_layout
 
 \begin_layout Itemize
 Alia, Mohammad A., Abdelfatah Aref Tamimi, and Omaima NA AL-Allaf.
- "Cryptography Based Authentication Methods." Proceedings of the World Congress
- on Engineering and Computer Science.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Cryptography Based Authentication Methods.
+\begin_inset Quotes erd
+\end_inset
+
+ Proceedings of the World Congress on Engineering and Computer Science.
  Vol.
  1.
  2014.
@@ -3471,14 +3885,28 @@ Alia, Mohammad A., Abdelfatah Aref Tamimi, and Omaima NA AL-Allaf.
 
 \begin_layout Itemize
 Herrera Joancomartí, Jordi, and Helena Rifà Pous.
- "Computational and Energy Costs of Cryptographic Algorithms on Handheld
- Devices." (2011).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Computational and Energy Costs of Cryptographic Algorithms on Handheld Devices.
+\begin_inset Quotes erd
+\end_inset
+
+ (2011).
 \end_layout
 
 \begin_layout Itemize
 Alia, Mohammad Ahmad.
- "Cryptosystems Based on Chaos Theory." Chaos, Complexity and Leadership
- 2013.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Cryptosystems Based on Chaos Theory.
+\begin_inset Quotes erd
+\end_inset
+
+ Chaos, Complexity and Leadership 2013.
  Springer International Publishing, 2015.
  129-145.
 \end_layout
@@ -3487,8 +3915,16 @@ Alia, Mohammad Ahmad.
 Rashwan, Abdulmonem M., Abd-Elhamid M.
  Taha, and Hossam S.
  Hassanein.
- "Characterizing the Performance of Security Functions in Mobile Computing
- Systems." Internet of Things Journal, IEEE 1.5 (2014): 399-413.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Characterizing the Performance of Security Functions in Mobile Computing
+ Systems.
+\begin_inset Quotes erd
+\end_inset
+
+ Internet of Things Journal, IEEE 1.5 (2014): 399-413.
 \end_layout
 
 \end_deeper
@@ -3538,54 +3974,112 @@ tt citira se u}
 
 \begin_layout Itemize
 Fadaeenejad, M., et al.
- "The present and future of smart power grid in developing countries." Renewable
- and Sustainable Energy Reviews 29 (2014): 828-834.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The present and future of smart power grid in developing countries.
+\begin_inset Quotes erd
+\end_inset
+
+ Renewable and Sustainable Energy Reviews 29 (2014): 828-834.
 \end_layout
 
 \begin_layout Itemize
 Reddy, K.
  S., et al.
- "A review of Integration, Control, Communication and Metering (ICCM) of
- renewable energy based smart grid." Renewable and Sustainable Energy Reviews
- 38 (2014): 180-192.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A review of Integration, Control, Communication and Metering (ICCM) of renewable
+ energy based smart grid.
+\begin_inset Quotes erd
+\end_inset
+
+ Renewable and Sustainable Energy Reviews 38 (2014): 180-192.
 \end_layout
 
 \begin_layout Itemize
 Yigit, Melike, V.
  Cagri Gungor, and Selcuk Baktir.
- "Cloud computing for smart grid applications." Computer Networks 70 (2014):
- 312-329.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Cloud computing for smart grid applications.
+\begin_inset Quotes erd
+\end_inset
+
+ Computer Networks 70 (2014): 312-329.
 \end_layout
 
 \begin_layout Itemize
 Chofreh, Abdoulmohammad Gholamzadeh, et al.
- "Sustainable enterprise resource planning: imperatives and research directions."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sustainable enterprise resource planning: imperatives and research directions.
+\begin_inset Quotes erd
+\end_inset
+
  Journal of Cleaner Production 71 (2014): 139-147.
 \end_layout
 
 \begin_layout Itemize
 Mahmood, Anzar, Nadeem Javaid, and Sohail Razzaq.
- "A review of wireless communications for smart grid." Renewable and Sustainable
- Energy Reviews 41 (2015): 248-260.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A review of wireless communications for smart grid.
+\begin_inset Quotes erd
+\end_inset
+
+ Renewable and Sustainable Energy Reviews 41 (2015): 248-260.
 \end_layout
 
 \begin_layout Itemize
 Kiciński, J.
- "Do we have a chance for small-scale energy generation? The examples of
- technologies and devices for distributed energy systems in micro & small
- scale in Poland." Bulletin of the Polish Academy of Sciences: Technical
- Sciences 61.4 (2013): 749-756.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do we have a chance for small-scale energy generation? The examples of technolog
+ies and devices for distributed energy systems in micro & small scale in
+ Poland.
+\begin_inset Quotes erd
+\end_inset
+
+ Bulletin of the Polish Academy of Sciences: Technical Sciences 61.4 (2013):
+ 749-756.
 \end_layout
 
 \begin_layout Itemize
 Chou, Jui-Sheng, and Abdi Suryadinata Telaga.
- "Real-time detection of anomalous power consumption." Renewable and Sustainable
- Energy Reviews 33 (2014): 400-411.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Real-time detection of anomalous power consumption.
+\begin_inset Quotes erd
+\end_inset
+
+ Renewable and Sustainable Energy Reviews 33 (2014): 400-411.
 \end_layout
 
 \begin_layout Itemize
 Powell, Kody Merlin.
- "Dynamic optimization of energy systems with thermal energy storage." (2013).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Dynamic optimization of energy systems with thermal energy storage.
+\begin_inset Quotes erd
+\end_inset
+
+ (2013).
 \end_layout
 
 \begin_layout Itemize
@@ -3599,96 +4093,201 @@ Fons Gomez, Fernando Jose.
 
 \begin_layout Itemize
 Patti, Edoardo, et al.
- "Distributed Software Infrastructure for General Purpose Services in Smart
- Grid."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Distributed Software Infrastructure for General Purpose Services in Smart
+ Grid.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Diamantoulakis, Panagiotis D., Vasileios M.
  Kapinas, and George K.
  Karagiannidis.
- "Big Data Research." (2015).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Big Data Research.
+\begin_inset Quotes erd
+\end_inset
+
+ (2015).
 \end_layout
 
 \begin_layout Itemize
 Zhenxing, Zhao, et al.
- "Design and Implementation of Energy Hub for Smart Grid." Intelligent Systems
- Design and Engineering Applications, 2013 Fourth International Conference
- on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Design and Implementation of Energy Hub for Smart Grid.
+\begin_inset Quotes erd
+\end_inset
+
+ Intelligent Systems Design and Engineering Applications, 2013 Fourth Internatio
+nal Conference on.
  IEEE, 2013.
 \end_layout
 
 \begin_layout Itemize
 Colak, Ilhami, et al.
- "A survey on the contributions of power electronics to smart grid systems."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A survey on the contributions of power electronics to smart grid systems.
+\begin_inset Quotes erd
+\end_inset
+
  Renewable and Sustainable Energy Reviews 47 (2015): 562-579.
 \end_layout
 
 \begin_layout Itemize
 Amaro, Nuno, et al.
- "Combined Operation of an Unified Power Quality Conditioner and a Superconducti
-ng Magnetic Energy Storage System for Power Quality Improvement." Technological
- Innovation for Cloud-Based Engineering Systems.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Combined Operation of an Unified Power Quality Conditioner and a Superconducting
+ Magnetic Energy Storage System for Power Quality Improvement.
+\begin_inset Quotes erd
+\end_inset
+
+ Technological Innovation for Cloud-Based Engineering Systems.
  Springer International Publishing, 2015.
  374-382.
 \end_layout
 
 \begin_layout Itemize
 Khan, Zeeshan Ali, and Yasir Faheem.
- "Cognitive radio sensor networks: Smart communication for smart grids—A
- case study of Pakistan." Renewable and Sustainable Energy Reviews 40 (2014):
- 463-474.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Cognitive radio sensor networks: Smart communication for smart grids—A case
+ study of Pakistan.
+\begin_inset Quotes erd
+\end_inset
+
+ Renewable and Sustainable Energy Reviews 40 (2014): 463-474.
 \end_layout
 
 \begin_layout Itemize
 Song, Xin, et al.
- "A Massive Sensor Data Streams Multi-dimensional Analysis Strategy Using
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A Massive Sensor Data Streams Multi-dimensional Analysis Strategy Using
  Progressive Logarithmic Tilted Time Frame for Cloud-Based Monitoring Applicatio
-n." Advances in Neural Networks–ISNN 2014.
+n.
+\begin_inset Quotes erd
+\end_inset
+
+ Advances in Neural Networks–ISNN 2014.
  Springer International Publishing, 2014.
  550-557.
 \end_layout
 
 \begin_layout Itemize
 Nair, Rajeev Thankappan, and Ashok Sankar.
- "Dynamic pricing based on a cloud computing framework to support the integratio
-n of renewable energy sources." The Journal of Engineering 1.1 (2014).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Dynamic pricing based on a cloud computing framework to support the integration
+ of renewable energy sources.
+\begin_inset Quotes erd
+\end_inset
+
+ The Journal of Engineering 1.1 (2014).
 \end_layout
 
 \begin_layout Itemize
 Garrab, Asma, Ammar Bouallegue, and Ridha Bouallegue.
- "Multi-Agent modeling of a meters network used in Smart Grid." Computer
- Applications and Information Systems (WCCAIS), 2014 World Congress on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Multi-Agent modeling of a meters network used in Smart Grid.
+\begin_inset Quotes erd
+\end_inset
+
+ Computer Applications and Information Systems (WCCAIS), 2014 World Congress
+ on.
  IEEE, 2014.
 \end_layout
 
 \begin_layout Itemize
 Pei, Wei, et al.
- "Design and Implementation of Energy Management System for Energy Hub in
- Smart Grid." Information Technology Journal 12.18 (2013): 4797-4804.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Design and Implementation of Energy Management System for Energy Hub in
+ Smart Grid.
+\begin_inset Quotes erd
+\end_inset
+
+ Information Technology Journal 12.18 (2013): 4797-4804.
 \end_layout
 
 \begin_layout Itemize
 Al Abria, Dawood, et al.
- "Smart Grid." (2015).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Smart Grid.
+\begin_inset Quotes erd
+\end_inset
+
+ (2015).
 \end_layout
 
 \begin_layout Itemize
 Califano, Anthony, Ersin Dincelli, and Sanjay Goel.
- "Using Features of Cloud Computing to Defend Smart Grid against DDoS Attacks."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Using Features of Cloud Computing to Defend Smart Grid against DDoS Attacks.
+\begin_inset Quotes erd
+\end_inset
+
  10th Annual Symposium on Information Assurance (ASIA’15).
  2015.
 \end_layout
 
 \begin_layout Itemize
 Macedo, Maria NQ, et al.
- "Typification of load curves for DSM in Brazil for a smart grid environment."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Typification of load curves for DSM in Brazil for a smart grid environment.
+\begin_inset Quotes erd
+\end_inset
+
  International Journal of Electrical Power & Energy Systems 67 (2015): 216-221.
 \end_layout
 
 \begin_layout Itemize
 Roppestad, Robert, Per-Gunnar Fyhn, and Ricardo Colomo-Palacios.
- "A test bed for smart energy education in the field of computer engineering."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A test bed for smart energy education in the field of computer engineering.
+\begin_inset Quotes erd
+\end_inset
+
  Proceedings of the Second International Conference on Technological Ecosystems
  for Enhancing Multiculturality.
  ACM, 2014.
@@ -3696,23 +4295,45 @@ Roppestad, Robert, Per-Gunnar Fyhn, and Ricardo Colomo-Palacios.
 
 \begin_layout Itemize
 Guerrero, Juan I., et al.
- "Improving Knowledge-Based Systems with statistical techniques, text mining,
- and neural networks for non-technical loss detection." Knowledge-Based Systems
- 71 (2014): 376-388.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Improving Knowledge-Based Systems with statistical techniques, text mining,
+ and neural networks for non-technical loss detection.
+\begin_inset Quotes erd
+\end_inset
+
+ Knowledge-Based Systems 71 (2014): 376-388.
 \end_layout
 
 \begin_layout Itemize
 Rajeev, T., and S.
  Ashok.
- "Dynamic load-shifting program based on a cloud computing framework to
- support the integration of renewable energy sources." Applied Energy 146
- (2015): 141-149.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Dynamic load-shifting program based on a cloud computing framework to support
+ the integration of renewable energy sources.
+\begin_inset Quotes erd
+\end_inset
+
+ Applied Energy 146 (2015): 141-149.
 \end_layout
 
 \begin_layout Itemize
 Li, Jing, et al.
- "Computing Mode Study of Large-Scale Power Grid Online Analysis Software
- Based on Cloud Computing Technology." Applied Mechanics and Materials.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Computing Mode Study of Large-Scale Power Grid Online Analysis Software
+ Based on Cloud Computing Technology.
+\begin_inset Quotes erd
+\end_inset
+
+ Applied Mechanics and Materials.
  Vol.
  427.
  2013.
@@ -3720,21 +4341,43 @@ Li, Jing, et al.
 
 \begin_layout Itemize
 Huang, Qi, et al.
- "Data Management in Smart Grid." Innovative Testing and Measurement Solutions
- for Smart Grid: 183-210.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Data Management in Smart Grid.
+\begin_inset Quotes erd
+\end_inset
+
+ Innovative Testing and Measurement Solutions for Smart Grid: 183-210.
 \end_layout
 
 \begin_layout Itemize
 Zhou, Kaile, and Shanlin Yang.
- "A framework of service-oriented operation model of China's power system."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A framework of service-oriented operation model of China's power system.
+\begin_inset Quotes erd
+\end_inset
+
  Renewable and Sustainable Energy Reviews 50 (2015): 719-725.
 \end_layout
 
 \begin_layout Itemize
 Kiciński, Jan, and Grzegorz Żywica.
- "Distributed Cogeneration.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Distributed Cogeneration.
  Civic Power Engineering.
- New Ideas." Steam Microturbines in Distributed Cogeneration.
+ New Ideas.
+\begin_inset Quotes erd
+\end_inset
+
+ Steam Microturbines in Distributed Cogeneration.
  Springer International Publishing, 2014.
  1-16.
 \end_layout
@@ -3743,8 +4386,15 @@ Kiciński, Jan, and Grzegorz Żywica.
 Diamantoulakis, Panagiotis D., Vasileios M.
  Kapinas, and George K.
  Karagiannidis.
- "Big Data Analytics for Dynamic Energy Management in Smart Grids." Big Data
- Research (2015).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Big Data Analytics for Dynamic Energy Management in Smart Grids.
+\begin_inset Quotes erd
+\end_inset
+
+ Big Data Research (2015).
 \end_layout
 
 \end_deeper
@@ -3794,23 +4444,45 @@ tt citira se u}
 
 \begin_layout Itemize
 Regazzoni, Francesco, et al.
- "A design flow and evaluation framework for DPA-resistant instruction set
- extensions." Cryptographic Hardware and Embedded Systems-CHES 2009.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A design flow and evaluation framework for DPA-resistant instruction set
+ extensions.
+\begin_inset Quotes erd
+\end_inset
+
+ Cryptographic Hardware and Embedded Systems-CHES 2009.
  Springer Berlin Heidelberg, 2009.
  205-219.
 \end_layout
 
 \begin_layout Itemize
 Grabher, Philipp, Johann Großschädl, and Dan Page.
- "Light-weight instruction set extensions for bit-sliced cryptography." Cryptogra
-phic Hardware and Embedded Systems–CHES 2008.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Light-weight instruction set extensions for bit-sliced cryptography.
+\begin_inset Quotes erd
+\end_inset
+
+ Cryptographic Hardware and Embedded Systems–CHES 2008.
  Springer Berlin Heidelberg, 2008.
  331-345.
 \end_layout
 
 \begin_layout Itemize
 Elbirt, Adam J.
- "Fast and efficient implementation of AES via instruction set extensions."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Fast and efficient implementation of AES via instruction set extensions.
+\begin_inset Quotes erd
+\end_inset
+
  Advanced Information Networking and Applications Workshops, 2007, AINAW'07.
  21st International Conference on.
  Vol.
@@ -3820,7 +4492,14 @@ Elbirt, Adam J.
 
 \begin_layout Itemize
 Gueneysu, Tim, Christof Paar, and Jan Pelzl.
- "Attacking elliptic curve cryptosystems with special-purpose hardware."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Attacking elliptic curve cryptosystems with special-purpose hardware.
+\begin_inset Quotes erd
+\end_inset
+
  Proceedings of the 2007 ACM/SIGDA 15th international symposium on Field
  programmable gate arrays.
  ACM, 2007.
@@ -3829,52 +4508,104 @@ Gueneysu, Tim, Christof Paar, and Jan Pelzl.
 \begin_layout Itemize
 Melia, Sean O., and Adam J.
  Elbirt.
- "Enhancing the performance of symmetric-key cryptography via instruction
- set extensions." Very Large Scale Integration (VLSI) Systems, IEEE Transactions
- on 18.11 (2010): 1505-1518.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Enhancing the performance of symmetric-key cryptography via instruction
+ set extensions.
+\begin_inset Quotes erd
+\end_inset
+
+ Very Large Scale Integration (VLSI) Systems, IEEE Transactions on 18.11
+ (2010): 1505-1518.
 \end_layout
 
 \begin_layout Itemize
 Elbirt, Adam J.
- "Accelerated AES implementations via generalized instruction set extensions."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Accelerated AES implementations via generalized instruction set extensions.
+\begin_inset Quotes erd
+\end_inset
+
  Journal of Computer Security 16.3 (2008): 265-288.
 \end_layout
 
 \begin_layout Itemize
 Jachimiec, Nathan P., Fernando Martinez-Vallina, and Jafar Saniie.
- "Acceleration of finite field arithmetic algorithms in embedded processing
- platforms utilizing instruction set extensions." Electro/Information Technology,
- 2007 IEEE International Conference on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Acceleration of finite field arithmetic algorithms in embedded processing
+ platforms utilizing instruction set extensions.
+\begin_inset Quotes erd
+\end_inset
+
+ Electro/Information Technology, 2007 IEEE International Conference on.
  IEEE, 2007.
 \end_layout
 
 \begin_layout Itemize
 Jachimie, Nathan, Fernando Martinez-Vallin, and Jafar Saniie.
- "CReconfigurable finite field instruction set architecture." Proceedings
- of the 2007 ACM/SIGDA 15th international symposium on Field programmable
- gate arrays.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+CReconfigurable finite field instruction set architecture.
+\begin_inset Quotes erd
+\end_inset
+
+ Proceedings of the 2007 ACM/SIGDA 15th international symposium on Field
+ programmable gate arrays.
  ACM, 2007.
 \end_layout
 
 \begin_layout Itemize
 Tanimura, Kazuyuki, et al.
- "Unified Dual-Radix Architecture for Scalable Montgomery Multiplications
- in GF (P) and GF (2 n)." IEICE TRANSACTIONS on Fundamentals of Electronics,
- Communications and Computer Sciences 92.9 (2009): 2304-2317.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Unified Dual-Radix Architecture for Scalable Montgomery Multiplications
+ in GF (P) and GF (2 n).
+\begin_inset Quotes erd
+\end_inset
+
+ IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer
+ Sciences 92.9 (2009): 2304-2317.
 \end_layout
 
 \begin_layout Itemize
 Gora, Michael, Eric Simpson, and Patrick Schaumont.
- "Intellectual Property Protection for Embedded Sensor Nodes." Embedded Computer
- Systems: Architectures, Modeling, and Simulation.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Intellectual Property Protection for Embedded Sensor Nodes.
+\begin_inset Quotes erd
+\end_inset
+
+ Embedded Computer Systems: Architectures, Modeling, and Simulation.
  Springer Berlin Heidelberg, 2008.
  289-298.
 \end_layout
 
 \begin_layout Itemize
 Smari, Waleed W., Luca Spalazzi, and Yacine Zemali.
- "Editorial: Recent developments in high performance computing and security:
- An editorial." Future Generation Computer Systems 29.3 (2013): 782-787.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Editorial: Recent developments in high performance computing and security:
+ An editorial.
+\begin_inset Quotes erd
+\end_inset
+
+ Future Generation Computer Systems 29.3 (2013): 782-787.
 \end_layout
 
 \begin_layout Itemize
@@ -3886,13 +4617,28 @@ Joshi, Pallavi.
 
 \begin_layout Itemize
 Gora, Michael Arthur.
- "Securing Software Intellectual Property on Commodity and Legacy Embedded
- Systems." (2010).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Securing Software Intellectual Property on Commodity and Legacy Embedded
+ Systems.
+\begin_inset Quotes erd
+\end_inset
+
+ (2010).
 \end_layout
 
 \begin_layout Itemize
 Kim, Dae-Hwan.
- "AMEX: Extending Addressing Mode of 16-bit Thumb Instruction Set Architecture."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+AMEX: Extending Addressing Mode of 16-bit Thumb Instruction Set Architecture.
+\begin_inset Quotes erd
+\end_inset
+
  Journal of The Korea Society of Computer and Information 17.11 (2012): 1-10.
 \end_layout
 
@@ -3940,34 +4686,72 @@ tt citira se u}
 
 \begin_layout Itemize
 Durlanik, Aytunc, and Ibrahim Sogukpinar.
- "SIP authentication scheme using ECDH." World Enformatika Society Transations
- on Engineering Computing and Technology 8 (2005): 350-353.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+SIP authentication scheme using ECDH.
+\begin_inset Quotes erd
+\end_inset
+
+ World Enformatika Society Transations on Engineering Computing and Technology
+ 8 (2005): 350-353.
 \end_layout
 
 \begin_layout Itemize
 Yoon, Eun-Jun, et al.
- "A secure and efficient SIP authentication scheme for converged VoIP networks."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A secure and efficient SIP authentication scheme for converged VoIP networks.
+\begin_inset Quotes erd
+\end_inset
+
  Computer Communications 33.14 (2010): 1674-1681.
 \end_layout
 
 \begin_layout Itemize
 Milenković, Milena, Aleksandar Milenković, and Emil Jovanov.
- "Hardware support for code integrity in embedded processors." Proceedings
- of the 2005 international conference on Compilers, architectures and synthesis
- for embedded systems.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hardware support for code integrity in embedded processors.
+\begin_inset Quotes erd
+\end_inset
+
+ Proceedings of the 2005 international conference on Compilers, architectures
+ and synthesis for embedded systems.
  ACM, 2005.
 \end_layout
 
 \begin_layout Itemize
 Yoon, Eun-Jun, et al.
- "Robust mutual authentication with a key agreement scheme for the session
- initiation protocol." IETE Technical Review 27.3 (2010): 203-213.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Robust mutual authentication with a key agreement scheme for the session
+ initiation protocol.
+\begin_inset Quotes erd
+\end_inset
+
+ IETE Technical Review 27.3 (2010): 203-213.
 \end_layout
 
 \begin_layout Itemize
 Ahmad, Tohari, Jiankun Hu, and Song Han.
- "An efficient mobile voting system security scheme based on elliptic curve
- cryptography." Network and System Security, 2009.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+An efficient mobile voting system security scheme based on elliptic curve
+ cryptography.
+\begin_inset Quotes erd
+\end_inset
+
+ Network and System Security, 2009.
  NSS'09.
  Third International Conference on.
  IEEE, 2009.
@@ -3982,7 +4766,14 @@ Milenkovic, Milena.
 
 \begin_layout Itemize
 Rogers, Austin, Milena Milenkovic, and Aleksandar Milenkovic.
- "A low overhead hardware technique for software integrity and confidentiality."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A low overhead hardware technique for software integrity and confidentiality.
+\begin_inset Quotes erd
+\end_inset
+
  Computer Design, 2007.
  ICCD 2007.
  25th International Conference on.
@@ -3991,21 +4782,43 @@ Rogers, Austin, Milena Milenkovic, and Aleksandar Milenkovic.
 
 \begin_layout Itemize
 Rogers, Austin, and Aleksandar Milenković.
- "Security extensions for integrity and confidentiality in embedded processors."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Security extensions for integrity and confidentiality in embedded processors.
+\begin_inset Quotes erd
+\end_inset
+
  Microprocessors and Microsystems 33.5 (2009): 398-414.
 \end_layout
 
 \begin_layout Itemize
 Milenkovic, Aleksandar, Milena Milenkovic, and Emil Jovanov.
- "An efficient runtime instruction block verification for secure embedded
- systems." Journal of Embedded Computing 2.1 (2006): 57.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+An efficient runtime instruction block verification for secure embedded
+ systems.
+\begin_inset Quotes erd
+\end_inset
+
+ Journal of Embedded Computing 2.1 (2006): 57.
 \end_layout
 
 \begin_layout Itemize
 Puzović, Nikola, et al.
- "A multi-pronged approach to benchmark characterization." Cluster Computing
- Workshops and Posters (CLUSTER WORKSHOPS), 2010 IEEE International Conference
- on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A multi-pronged approach to benchmark characterization.
+\begin_inset Quotes erd
+\end_inset
+
+ Cluster Computing Workshops and Posters (CLUSTER WORKSHOPS), 2010 IEEE
+ International Conference on.
  IEEE, 2010.
 \end_layout
 
@@ -4019,27 +4832,42 @@ Rogers, Austin.
 
 \begin_layout Itemize
 Zhang, Liping, Shanyu Tang, and Zhihua Cai.
- "Robust and efficient password authenticated key agreement with user anonymity
- for session initiation protocol-based communications." Communications, IET
- 8.1 (2014): 83-91.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Robust and efficient password authenticated key agreement with user anonymity
+ for session initiation protocol-based communications.
+\begin_inset Quotes erd
+\end_inset
+
+ Communications, IET 8.1 (2014): 83-91.
 \end_layout
 
 \begin_layout Itemize
 de Oliveira, Augusto Born, Ahmad Saif Ur Rehman, and Sebastian Fischmeister.
- "mTags: augmenting microkernel messages with lightweight metadata." ACM
- SIGOPS Operating Systems Review 46.2 (2012): 67-79.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+mTags: augmenting microkernel messages with lightweight metadata.
+\begin_inset Quotes erd
+\end_inset
+
+ ACM SIGOPS Operating Systems Review 46.2 (2012): 67-79.
 \end_layout
 
 \begin_layout Itemize
 Yoon, Eun-Jun, and Kee-Young Yoo.
- "Robust biometric-based three-party authenticated key establishment protocols."
- International Journal of Computer Mathematics 88.6 (2011): 1144-1157.
-\end_layout
+ 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Itemize
-Karaoğlan, Duygu, and Albert Levі.
- "A survey on the development of security mechanisms for body area networks."
- The Computer Journal 57.10 (2014): 1484-1512.
+Robust biometric-based three-party authenticated key establishment protocols.
+\begin_inset Quotes erd
+\end_inset
+
+ International Journal of Computer Mathematics 88.6 (2011): 1144-1157.
 \end_layout
 
 \begin_layout Itemize
@@ -4052,30 +4880,61 @@ ality in Embedded Systems.
 
 \begin_layout Itemize
 Gora, Michael, Eric Simpson, and Patrick Schaumont.
- "Intellectual Property Protection for Embedded Sensor Nodes." Embedded Computer
- Systems: Architectures, Modeling, and Simulation.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Intellectual Property Protection for Embedded Sensor Nodes.
+\begin_inset Quotes erd
+\end_inset
+
+ Embedded Computer Systems: Architectures, Modeling, and Simulation.
  Springer Berlin Heidelberg, 2008.
  289-298.
 \end_layout
 
 \begin_layout Itemize
 Saif Ur Rehman, Ahmad.
- "Tags: Augmenting Microkernel Messages with Lightweight Metadata." (2012).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Tags: Augmenting Microkernel Messages with Lightweight Metadata.
+\begin_inset Quotes erd
+\end_inset
+
+ (2012).
 \end_layout
 
 \begin_layout Itemize
 Quirino, Gustavo S., Edward David Moreno, and Leila BC Matos.
- "Performance Evaluation of Asymmetric Encryption Algorithms in embedded
- platforms used in WSN." Proceedings of the International Conference on Security
- and Management (SAM).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Performance Evaluation of Asymmetric Encryption Algorithms in embedded platforms
+ used in WSN.
+\begin_inset Quotes erd
+\end_inset
+
+ Proceedings of the International Conference on Security and Management
+ (SAM).
  The Steering Committee of The World Congress in Computer Science, Computer
  Engineering and Applied Computing (WorldComp), 2013.
 \end_layout
 
 \begin_layout Itemize
 Gora, Michael Arthur.
- "Securing Software Intellectual Property on Commodity and Legacy Embedded
- Systems." (2010).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Securing Software Intellectual Property on Commodity and Legacy Embedded
+ Systems.
+\begin_inset Quotes erd
+\end_inset
+
+ (2010).
 \end_layout
 
 \end_deeper
@@ -4125,32 +4984,69 @@ tt citira se u}
 
 \begin_layout Itemize
 Oliveira, Leonardo B., et al.
- "TinyPBC: Pairings for authenticated identity-based non-interactive key
- distribution in sensor networks." Computer Communications 34.3 (2011): 485-493.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+TinyPBC: Pairings for authenticated identity-based non-interactive key distribut
+ion in sensor networks.
+\begin_inset Quotes erd
+\end_inset
+
+ Computer Communications 34.3 (2011): 485-493.
 \end_layout
 
 \begin_layout Itemize
 Tergino, Christian Sean.
- "Efficient binary field multiplication on a VLIW DSP." (2009).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Efficient binary field multiplication on a VLIW DSP.
+\begin_inset Quotes erd
+\end_inset
+
+ (2009).
 \end_layout
 
 \begin_layout Itemize
 Kobayashi, Kaoru, Naofumi Takagi, and Kazuyoshi Takagi.
- "Fast inversion algorithm in GF (2m) suitable for implementation with a
- polynomial multiply instruction on GF (2)." IET computers & digital techniques
- 6.3 (2012): 180-185.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Fast inversion algorithm in GF (2m) suitable for implementation with a polynomia
+l multiply instruction on GF (2).
+\begin_inset Quotes erd
+\end_inset
+
+ IET computers & digital techniques 6.3 (2012): 180-185.
 \end_layout
 
 \begin_layout Itemize
 Erdem, Serdar Süer.
- "Fast software multiplication in F2 [x] for embedded processors." Turkish
- Journal of Electrical Engineering & Computer Sciences 20.4 (2012).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Fast software multiplication in F2 [x] for embedded processors.
+\begin_inset Quotes erd
+\end_inset
+
+ Turkish Journal of Electrical Engineering & Computer Sciences 20.4 (2012).
 \end_layout
 
 \begin_layout Itemize
 Sakthivel, A., and R.
  Nedunchezhian.
- "Decreasing point multiplication over ECC (Z p) using tree computations."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Decreasing point multiplication over ECC (Z p) using tree computations.
+\begin_inset Quotes erd
+\end_inset
+
  Computing, Communication and Applications (ICCCA), 2012 International Conferenc
 e on.
  IEEE, 2012.
@@ -4159,34 +5055,72 @@ e on.
 \begin_layout Itemize
 Sakthivel, A., and R.
  Nedunchezhian.
- "Optimizing point Doubling Operations in ECC Zp." International Journal
- of Computer Applications 41.6 (2012).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Optimizing point Doubling Operations in ECC Zp.
+\begin_inset Quotes erd
+\end_inset
+
+ International Journal of Computer Applications 41.6 (2012).
 \end_layout
 
 \begin_layout Itemize
 Sakthivel, Arumugam, and Dr R.
  Nedunchezhian.
- "Analyzing the Point Multiplication Operation of Elliptic Curve Cryptosystem
- over Prime Field for Parallel Processing." International Arab Jounal of
- Information Technology 11.4 (2014): 1-7.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Analyzing the Point Multiplication Operation of Elliptic Curve Cryptosystem
+ over Prime Field for Parallel Processing.
+\begin_inset Quotes erd
+\end_inset
+
+ International Arab Jounal of Information Technology 11.4 (2014): 1-7.
 \end_layout
 
 \begin_layout Itemize
 Keramidas, Georgios, et al.
- "Embedded reconfigurable computing: the ERA approach." Industrial Informatics
- (INDIN), 2013 11th IEEE International Conference on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Embedded reconfigurable computing: the ERA approach.
+\begin_inset Quotes erd
+\end_inset
+
+ Industrial Informatics (INDIN), 2013 11th IEEE International Conference
+ on.
  IEEE, 2013.
 \end_layout
 
 \begin_layout Itemize
 Hamilton, Mark.
- "Cryptographic coprocessors for embedded systems." (2014).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Cryptographic coprocessors for embedded systems.
+\begin_inset Quotes erd
+\end_inset
+
+ (2014).
 \end_layout
 
 \begin_layout Itemize
 Winson, Ninh.
- "Performance Comparison of Projective Elliptic-curve Point Multiplication
- in 64-bit x86 Runtime Environment." (2014).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Performance Comparison of Projective Elliptic-curve Point Multiplication
+ in 64-bit x86 Runtime Environment.
+\begin_inset Quotes erd
+\end_inset
+
+ (2014).
 \end_layout
 
 \end_deeper
@@ -4236,24 +5170,33 @@ tt citira se u}
 
 \begin_layout Itemize
 El Farra, Ahmad, and Edmond Zahedi.
- "Interactive educational tool for teaching a simple cipher." Biometrics
- and Security Technologies (ISBAST), 2014 International Symposium on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Interactive educational tool for teaching a simple cipher.
+\begin_inset Quotes erd
+\end_inset
+
+ Biometrics and Security Technologies (ISBAST), 2014 International Symposium
+ on.
  IEEE, 2014.
 \end_layout
 
 \begin_layout Itemize
 Katz, Frank H.
- "A Comparison of Different Methods of Instruction in Cryptography." (2014).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A Comparison of Different Methods of Instruction in Cryptography.
+\begin_inset Quotes erd
+\end_inset
+
+ (2014).
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Kako se iz navedenih podataka može zaključiti, barem sedam publikacija dr
  Irine Branović citirano je ukupno više od 120 puta u svetskoj naučnoj literatur
@@ -4310,8 +5253,8 @@ Iako dr Irina Branović nema samostalnih radova, ona je pokretački faktor
  Svi test primeri, razvijeni simulatori i drugi rezultati dostupni su svetskoj
  istraživačkoj javnosti preko Interneta, na šta upućuju linkovi u odgovarajućim
  radovima.
- Iskustvo stečeno na obrazovanju u inostranstvu koje kandidat ima doprinosi
- proširenju međunarodne saradnje kako samog kandidata, tako i njene matične
+ Iskustvo stečeno na obrazovanju u inostranstvu koje kandidatkinja ima doprinosi
+ proširenju međunarodne saradnje kako same kandidatkinje, tako i njene matične
  institucije.
  Sve to potvrđuju i njeni koautori u svojim izjavama.
 \end_layout
@@ -4417,7 +5360,7 @@ status collapsed
 
 \end_inset
 
- može se zaključiti da kandidat dr Irina Branović ispunjava i kvantitativne
+ može se zaključiti da kandidatkinja dr Irina Branović ispunjava i kvantitativne
  i kvalitativne kriterijume za izbor u zvanje viši naučni saradnik.
 \end_layout
 
@@ -4615,7 +5558,8 @@ Imajući u vidu navedene činjenice, sa zadovoljstvom predlažemo Naučnom veću
 te\SpecialChar \-
 ma\SpecialChar \-
 tič\SpecialChar \-
-kog instituta SANU da dr Irinu Branović Balović 
+kog instituta SANU da na osnovu priloženog izveštaja formira predlog
+ Ministarstvu nauke da dr Irinu Branović Balović 
 \begin_inset ERT
 status collapsed
 
@@ -4632,7 +5576,7 @@ underline{izabere}
 \series bold
 viši naučni saradnik
 \series default
- za oblast računarstvo.
+ za oblast računarstva.
 \end_layout
 
 \begin_layout Standard
@@ -4665,8 +5609,8 @@ status open
 \begin_inset Newline newline
 \end_inset
 
- 30.
- jun 2015.
+ 28.
+ avgust 2015.
  
 \end_layout
 
@@ -4687,6 +5631,9 @@ height_special "totalheight"
 status open
 
 \begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
 Članovi komisije
 \end_layout
 
@@ -4705,6 +5652,18 @@ bigskip
 \end_inset
 
 
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -4743,6 +5702,14 @@ dr Tatjana Davidović,
 \end_layout
 
 \begin_layout Plain Layout
+\noindent
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -4762,6 +5729,14 @@ prof.dr Miomir Stanković,
 \end_layout
 
 \begin_layout Plain Layout
+\noindent
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -4778,6 +5753,14 @@ dr Slobodan Simić,
 \end_inset
 
  naučni savetnik MI SANU
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Plain Layout
