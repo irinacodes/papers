@@ -9,6 +9,7 @@
 \usepackage{enumerate}
 
 
+
 \oddsidemargin=0.25in \topmargin=-0.25in \textwidth=6.25in
 \textheight=8.75in
 %\parskip=14pt
@@ -19,7 +20,7 @@
 \maintain_unincluded_children false
 \language english
 \language_package none
-\inputencoding auto
+\inputencoding iso8859-15
 \fontencoding default
 \font_roman default
 \font_sans default
@@ -199,8 +200,8 @@ Dr Irina Branović Balović zaposlena je u Matematičkom institutu SANU sa
 \end_inset
 
 godine.
- U zvanje docenta izabrana je 2010.
- godine na Univerzitetu Singidunum i ranije nije birana u naučna zvanja.
+ Do sada nije birana u naučna zvanja, a u zvanje docenta izabrana je 2010.
+ godine na Univerzitetu Singidunum.
 \end_layout
 
 \begin_layout Standard
@@ -246,7 +247,7 @@ Irina Branović rođena je 15.02.1975.
 
 godine u Zrenjaninu, gde je završila osnovnu školu i gimnaziju.
  Diplomirala je na smeru za elektroniku Elektrotehničkog fakulteta Univerziteta
- u Beogradu 2000.
+ u Beogradu 2001.
 \begin_inset space ~
 \end_inset
 
@@ -254,7 +255,7 @@ godine.
 \end_layout
 
 \begin_layout Standard
-Poslediplomske doktorske studije upisala je 2001.
+Poslediplomske doktorske studije upisala je iste
 \begin_inset space ~
 \end_inset
 
@@ -434,8 +435,8 @@ Bibliografija kandidata - kvantitativni kriterijumi
 
 \begin_layout Standard
 S obzirom da kandidatkinja ranije nije birana u istraživačka zvanja, već
- samo u nastavnička zvanja, ovde dajemo spisak naučnih radova koje je objavila
- sa kratkim apstraktima.
+ samo u nastavnička zvanja, ovde dajemo spisak svih naučnih radova koje
+ je objavila sa kratkim apstraktima.
 \end_layout
 
 \begin_layout Standard
@@ -455,7 +456,7 @@ Spisak naučnih radova za izbor u zvanje viši naučni saradnik
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -475,7 +476,7 @@ v{c}aja (M$_{12}$ = 10)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -491,11 +492,11 @@ I.
 \begin_inset Newline newline
 \end_inset
 
-dp/3838380118/ref=sr_1_1?s=books&ie=UTF8
+ dp/3838380118/ref=sr_1_1?s=books&ie=UTF8
 \begin_inset Newline newline
 \end_inset
 
-&qid=1435085334&sr=1-1&keywords=irina+branovic
+ &qid=1435085334&sr=1-1&keywords=irina+branovic
 \end_layout
 
 \begin_deeper
@@ -531,7 +532,7 @@ pametnim
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -551,7 +552,7 @@ v{c}aja (M$_{13}$ = 6)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -616,7 +617,6 @@ e Learning: Theory, Strategies and Educational Benefits by Nova Science
 \end_inset
 
  https://www.novapublishers.com/catalog/product_info.php?products_id=51224
- 
 \end_layout
 
 \begin_deeper
@@ -633,13 +633,15 @@ Pregled virtuelnih kolaborativnih 3D okruženja za edukaciju uz diskusiju
 Predložen je inovativan pristup kroz dizajniranje 3D virtuelnih učionica
  u kojima će kolaborativni pristup edukaciji biti olakšan kroz rad u grupama.
  
+\family default
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -663,7 +665,7 @@ v{c}aja (M$_{21}$ = 8)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -698,7 +700,7 @@ em
 
  IEEE Transansactions on Computers
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -712,7 +714,7 @@ status open
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4358294
+ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4358294
 \end_layout
 
 \begin_deeper
@@ -724,6 +726,8 @@ Rezultati profiliranja i merenja vremena izvršavanja algoritama za šifrovanje
  konačnim poljima.
  Predloženi su optimalan izbor parametara za eliptičke krive, kao i metoda
  implementacije algoritama u softveru.
+ 
+\family default
  
 \end_layout
 
@@ -775,7 +779,7 @@ status collapsed
 \begin_inset Newline newline
 \end_inset
 
-http://www.sciencedirect.com/science/article/pii/S136403211300227X
+ http://www.sciencedirect.com/science/article/pii/S136403211300227X
 \end_layout
 
 \begin_deeper
@@ -809,13 +813,15 @@ pametne
  električne mreže (engl.
  smart grid).
  
+\family default
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -837,7 +843,7 @@ v{c}aja (M$_{23}$ = 3)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -870,7 +876,7 @@ em
 
  Telecommunication Systems
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -883,7 +889,7 @@ status open
 \begin_inset Newline newline
 \end_inset
 
-http://link.springer.com/article/10.1023%2FA%3A1023438903896
+ http://link.springer.com/article/10.1023%2FA%3A1023438903896
 \end_layout
 
 \begin_deeper
@@ -892,6 +898,8 @@ http://link.springer.com/article/10.1023%2FA%3A1023438903896
 \family sans
 Ukazuje na neophodnost nezavisnog testiranja instrastrukture za elektronsko
  poslovanje u bežičnim okruženjima.
+ 
+\family default
  
 \end_layout
 
@@ -928,7 +936,7 @@ em
 
  International Journal of Engineering Education
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -942,7 +950,7 @@ status open
 \begin_inset Newline newline
 \end_inset
 
-http://www.ijee.ie/covers/covandabs30-4.pdf
+ http://www.ijee.ie/covers/covandabs30-4.pdf
 \end_layout
 
 \begin_deeper
@@ -952,6 +960,8 @@ http://www.ijee.ie/covers/covandabs30-4.pdf
 Opisuje ontološki pristup projektovanju kurikuluma za digitalnu forenziku
  na sva tri nivoa studija i virtuelnu učionicu za digitalnu forenziku razvijenu
  u okviru ove studije.
+ 
+\family default
  
 \end_layout
 
@@ -965,7 +975,7 @@ S.
 \begin_inset Newline newline
 \end_inset
 
-Heuristic Based Real-Time Train Rescheduling System, 
+ Heuristic Based Real-Time Train Rescheduling System, 
 \begin_inset ERT
 status collapsed
 
@@ -991,7 +1001,7 @@ em
 
  Networks
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1022,12 +1032,15 @@ je u realnom vremenu primenom heurističkih metoda.
  za automatsko rešavanje konflikata i izbor najpovoljnijeg rešenja za preraspode
 ljivanje (engl.
  rescheduling).
+
+\family default
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1047,7 +1060,7 @@ v{c}aja (M$_{52}$ = 1.5)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -1074,6 +1087,9 @@ u oblaku
 \end_inset
 
 .
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1096,13 +1112,16 @@ Opis implementacije WCF Data servisa koji iz baze podataka JP Putevi Srbije
  po osnovnim vrstama vozila na saobraćajnim deonicama, a dobijeni podaci
  služe kao sistem za podršku u odlučivanju pri upravljanju bezbednošću saobraćaj
 a na putno-pružnim prelazima.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1122,7 +1141,7 @@ koji nisu na SCI listi (M$_{53}$ = 1)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -1134,7 +1153,7 @@ I.
 \begin_inset Newline newline
 \end_inset
 
-http://dl.acm.org/citation.cfm?id=1024299
+ http://dl.acm.org/citation.cfm?id=1024299
 \end_layout
 
 \begin_deeper
@@ -1152,6 +1171,9 @@ embedded
 
  arhitekturama i opis originalnih test programa razvijenih za potrebe merenja
  performansi.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1186,7 +1208,7 @@ em
 
  Energy and Emission Control Technologies
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1201,8 +1223,8 @@ status open
 \begin_inset Newline newline
 \end_inset
 
-http://www.dovepress.com/smart-grid-and-nanotechnologies-a-solution-for-clean-and-
-sustainable-e-peer-reviewed-article-EECT 
+ http://www.dovepress.com/smart-grid-and-nanotechnologies-a-solution-for-clean-and
+-sustainable-e-peer-reviewed-article-EECT
 \end_layout
 
 \begin_deeper
@@ -1229,13 +1251,16 @@ pametne
 \end_inset
 
  mreže u bliskoj budućnosti.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1260,7 +1285,7 @@ v{s}tampani u celini (M$_{33}$ = 1)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -1284,7 +1309,7 @@ Mobile Environments, Proceedings of the 35th Annual IEEE Hawaii International
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=994524
+ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=994524
 \end_layout
 
 \begin_deeper
@@ -1293,6 +1318,9 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=994524
 \family sans
 Preliminarni rezultati istraživanja objavljenih naknadno u časopisu Telecommunic
 ation Systems.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1313,6 +1341,9 @@ I.
 \family sans
 Opis razvijenog simulatora keš memorije procesora i prednosti njegovog korišćenj
 a u nastavi predmeta Arhitektura računara.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1343,6 +1374,9 @@ embedded
 
  uređajima.
  Uporedna analiza razvijenog testa sa drugim sličnim test programima.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1358,7 +1392,7 @@ re education, Munich, Germany, pp.
 \begin_inset Newline newline
 \end_inset
 
-http://dl.acm.org/citation.cfm?id=1275596
+ http://dl.acm.org/citation.cfm?id=1275596
 \end_layout
 
 \begin_deeper
@@ -1367,6 +1401,9 @@ http://dl.acm.org/citation.cfm?id=1275596
 \family sans
 Opis razvijenog Web simulatora MIPS procesora i prednosti njegovog korišćenja
  u nastavi predmeta Arhitektura računara.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1383,7 +1420,7 @@ S.
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1364759
+ http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1364759
 \end_layout
 
 \begin_deeper
@@ -1401,6 +1438,9 @@ embedded
 
  procesoru XScale i analiza mogućih dodataka skupu instrukcija, kasnije
  prošireni i objavljeni u časopisu IEEE Trsansactions on Computers.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1418,7 +1458,7 @@ S.
 \begin_inset Newline newline
 \end_inset
 
-http://www.icestconf.org/images/proceedings/icest_2011_03.pdf
+ http://www.icestconf.org/images/proceedings/icest_2011_03.pdf
 \end_layout
 
 \begin_deeper
@@ -1427,6 +1467,9 @@ http://www.icestconf.org/images/proceedings/icest_2011_03.pdf
 \family sans
 Opisuje pozitivna iskustva korišćenja alata CrypTool u nastavi predmeta
  Kriptografija.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1437,14 +1480,18 @@ I.
  Mladenović, S.
  Milinković, S.
  Janković, SOA Architecture for Complying with EU Railway Timetable Data
- Exchange Format, TELSIKS’11 – 10th International Conference on Telecommunicatio
-ns in Modern Satellite, Cable and Broadcasting Services, Niš, Serbia, pp.
+ Exchange Format, TELSIKS
+\begin_inset Quotes ers
+\end_inset
+
+11 – 10th International Conference on Telecommunications in Modern Satellite,
+ Cable and Broadcasting Services, Niš, Serbia, pp.
  630-631, 2011.
  
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6143191
+ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6143191
 \end_layout
 
 \begin_deeper
@@ -1453,6 +1500,8 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6143191
 \family sans
 Implementacija Web servisa razvijenih za potrebe razmenjivanja reda vožnje
  u formatu koji propisuju EU standardi.
+ 
+\family default
  
 \end_layout
 
@@ -1470,7 +1519,7 @@ Z.
 \begin_inset Newline newline
 \end_inset
 
-http://www.thinkmind.org/download.php?articleid=iciw_2012_8_30_20176
+ http://www.thinkmind.org/download.php?articleid=iciw_2012_8_30_20176
 \end_layout
 
 \begin_deeper
@@ -1479,6 +1528,8 @@ http://www.thinkmind.org/download.php?articleid=iciw_2012_8_30_20176
 \family sans
 Prikaz razvijene inovativne platforme za projektovanje kurikuluma predmeta,
  automatsko ocenjivanje i praćenje napretka studenta u virtuelnom okruženju.
+ 
+\family default
  
 \end_layout
 
@@ -1494,7 +1545,7 @@ M.
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6419510 
+ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6419510
 \end_layout
 
 \begin_deeper
@@ -1504,6 +1555,9 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6419510
 Pogled na potrošnju energije u bežičnim senzorskim mrežama i predlog klasterisan
 e platforme koja bi koristila šifrovanje eliptičkim krivama čime bi se poboljšal
 a njihova energetska efikasnost.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1520,7 +1574,7 @@ I.
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6530234
+ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6530234
 \end_layout
 
 \begin_deeper
@@ -1529,6 +1583,9 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6530234
 \family sans
 Opisuje modularne virtuelne laboratorije razvijene za različite predmete
  informatike i računarstva i njihove prednosti u nastavi.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1545,7 +1602,7 @@ T.
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6716392
+ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6716392
 \end_layout
 
 \begin_deeper
@@ -1554,6 +1611,9 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6716392
 \family sans
 Opisuje integraciju virtuelne laboratorije za bežične senzorske mreže u
  3D okruženje za učenje.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1568,7 +1628,7 @@ ications Forum (TELFOR), Srbija, Beograd, pp.
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6716368 
+ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6716368
 \end_layout
 
 \begin_deeper
@@ -1578,6 +1638,9 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6716368
 Opisuje pozitivne efekte integracije simulatora za bežične senzorske mreže
  u višejezično 3D okruženje i organizovane sesije grupnog učenja koje su
  pomogle stranim studentima da prevaziđu jezičku barijeru.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1594,7 +1657,7 @@ I.
 \begin_inset Newline newline
 \end_inset
 
-http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7096837 
+ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7096837
 \end_layout
 
 \begin_deeper
@@ -1604,6 +1667,9 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7096837
 Opisuje pozitivne efekte integracije različitih simulatora razvijenih za
  računarske predmete (osnovi računarske tehnike, arhitektura računara, operativn
 i sistemi, bežične mreže) u 3D virtuelno okruženje za učenje.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1620,7 +1686,7 @@ S.
 \begin_inset Newline newline
 \end_inset
 
-http://www.icestconf.org/images/proceedings/icest_2013_02.pdf 
+ http://www.icestconf.org/images/proceedings/icest_2013_02.pdf
 \end_layout
 
 \begin_deeper
@@ -1630,6 +1696,9 @@ http://www.icestconf.org/images/proceedings/icest_2013_02.pdf
 Opis tehnologije korišćene za postizanje interoperabilnosti različitih subjekata
  uključenih u transportni sektor.
  Razmatra tri načina integracije: preko podataka, servisa i portala.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1643,7 +1712,6 @@ S.
  in Serbian railways, XVI Scientific-Expert Conference on Railways - RAILCON
  '14, Niš, Serbia, pp.
  149-152, ISBN 978-86-6055-060-8, 2014.
- 
 \end_layout
 
 \begin_deeper
@@ -1652,13 +1720,16 @@ S.
 \family sans
 Opis baze podataka, senzora za praćenje i informacionog sistema razvijenog
  za potrebe praćenja i održavanja voznih sredstava železnice.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1682,7 +1753,7 @@ v{c}aja}
 
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1695,11 +1766,10 @@ v{s}tampani u celini (M$_{63}$ = 0.5)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
-\noindent
 S.
  Vesković, S.
  Mladenović, S.
@@ -1716,7 +1786,6 @@ Novi horizonti saobraćaja i komunikacija 2011
 
 , pp.
  43-47, Doboj, Bosna i Hercegovina, ISBN 978-99955-36-28-2, 2011.
- 
 \end_layout
 
 \begin_deeper
@@ -1726,6 +1795,9 @@ Novi horizonti saobraćaja i komunikacija 2011
 Opis simulacionog modela za istraživanje kapaciteta jednokolosečne pruge
  razvijenog u cilju podrške pri donošenju odluka koje se tiču propusne moći
  i kvaliteta pruge.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1754,6 +1826,9 @@ Novi horizonti saobraćaja i komunikacija 2011
 \family sans
 Rezultati istraživanja zadovoljstva putnika uslugom u železničkom saobraćaju
  u cilju povećanja konkurentnosti i profita.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1773,7 +1848,6 @@ Novi horizonti saobraćaja i komunikacija 2011
 
 , pp.
  692-697, Doboj, Bosna i Hercegovina, ISBN 978-99955-36-28-2, 2011.
- 
 \end_layout
 
 \begin_deeper
@@ -1801,6 +1875,9 @@ oblaku
  tehnologije: deljenje informacija i servisa od javnog značaja, podizanje
  nivoa kvaliteta e-poslovanja između transportnih javnih preduzeća, unapređenje
  sistema za odnos sa korisnicima.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1814,7 +1891,6 @@ I.
  Janković, 3D virtual classroom for training of railway staff, IV Medjunarodni
  simpozijum: Novi Horizonti 2013, Doboj, Bosna i Hercegovina, pp.
  212-217, ISBN 978-99955-36-45-9, 2013.
- 
 \end_layout
 
 \begin_deeper
@@ -1825,20 +1901,24 @@ Opisan je proces razvoja 3D virtuelne učionice za obuku i osposobljavanje
  za rad različitih kategorija radnika železničkih izvršnih službi kao što
  su mašinovođe, radnici saobraćajne, tehničkokolske i transportno-komercijalne
  službe.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
+\noindent
 M.
  Milosavljević, I.
  Branović, S.
  Vesković, S.
  Milinković, N.Vasiljević, Simulacioni model železničko – drumskog terminala
  u tehnologiji pokretnih autostrada, YU INFO 2013, Kopaonik, Srbija, 2013.
+ 
 \end_layout
 
 \begin_layout Enumerate
-\noindent
 B.
  Mitrović, S.
  Milinković, I.
@@ -1859,7 +1939,6 @@ M.
  Aćimović, Analiza sistema Bg voza primenom simulacionog paketa OpenTrack,
  YU INFO 2014, Kopaonik, Srbija: Informaciono društvo Srbije, pp.
  473-478, 2014.
- 
 \end_layout
 
 \begin_deeper
@@ -1870,6 +1949,9 @@ Predstavljen je simulacioni model saobraćaja vozova u sistemu BG voza čiji
  je cilj analiza efekata pojave konfliktnih situacija u saobraćaju vozova
  i proračun vremena vožnje na ovim relacijama kako bi se uz primenu računara
  prikazalo ponašanje realnog sistema.
+
+\family default
+ 
 \end_layout
 
 \end_deeper
@@ -1887,7 +1969,7 @@ B.
 \begin_inset Newline newline
 \end_inset
 
-https://www.yuinfo.org/zbornik_2014_WEB%20verzija.pdf
+ https://www.yuinfo.org/zbornik_2014_WEB%20verzija.pdf
 \end_layout
 
 \begin_deeper
@@ -1900,13 +1982,15 @@ Predstavlja modele za izbor lokacije mernih stanica za pravovremeno otkrivanje
  mernih stanica (sekciju), a drugi model, zasnovan na fazi logici određuje
  mikro lokaciju za postavljanje merne stanice na mreži Železnica Srbije.
  
+\family default
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1917,7 +2001,7 @@ underline{Doktorska disertacija (M$_{71}$ = 6)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -1969,13 +2053,13 @@ status collapsed
 \begin_inset Newline newline
 \end_inset
 
-http://phd.dii.unisi.it/people/alumni.php
+ http://phd.dii.unisi.it/people/alumni.php 
 \end_layout
 
 \begin_layout Standard
 \noindent
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1990,7 +2074,7 @@ v{s}enja (M$_{85}$ = 2)}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -1999,7 +2083,7 @@ S.
  Janković, S.
  Vesković, I.
  Branović, SerbCross - SQL Azure baza podataka: Serbian Railroad Crossings,
- 2011, realizovano u okviru projekta TR36012 
+ 2011, realizovano u okviru projekta TR36012
 \end_layout
 
 \begin_deeper
@@ -2012,6 +2096,8 @@ im prelazima.
  Ovaj zadatak rešen je integracijom postojećih baza podataka koje nadležni
  subjekti koriste za potrebe upravljanja bezbednošću drumskog i železničkog
  saobraćaja na putno-pružnim prelazima.
+ 
+\family default
  
 \end_layout
 
@@ -2141,7 +2227,7 @@ M12
 \begin_inset Text
 
 \begin_layout Plain Layout
-10
+10 
 \end_layout
 
 \end_inset
@@ -2179,7 +2265,7 @@ M13
 \begin_inset Text
 
 \begin_layout Plain Layout
-6
+6 
 \end_layout
 
 \end_inset
@@ -2204,7 +2290,7 @@ M13
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2213,11 +2299,11 @@ M21
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-8
+8 
 \end_layout
 
 \end_inset
@@ -2231,7 +2317,7 @@ M21
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" rightline="true" usebox="none">
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2255,7 +2341,7 @@ M23
 \begin_inset Text
 
 \begin_layout Plain Layout
-3
+3 
 \end_layout
 
 \end_inset
@@ -2293,7 +2379,7 @@ M33
 \begin_inset Text
 
 \begin_layout Plain Layout
-1
+1 
 \end_layout
 
 \end_inset
@@ -2322,7 +2408,7 @@ M33
 \begin_inset Text
 
 \begin_layout Plain Layout
-M52
+M52 
 \end_layout
 
 \end_inset
@@ -2331,7 +2417,7 @@ M52
 \begin_inset Text
 
 \begin_layout Plain Layout
-1.5
+1.5 
 \end_layout
 
 \end_inset
@@ -2340,7 +2426,7 @@ M52
 \begin_inset Text
 
 \begin_layout Plain Layout
-2
+2 
 \end_layout
 
 \end_inset
@@ -2356,7 +2442,7 @@ M52
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2365,11 +2451,11 @@ M53
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-1
+1 
 \end_layout
 
 \end_inset
@@ -2383,7 +2469,7 @@ M53
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" rightline="true" usebox="none">
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2394,11 +2480,20 @@ M53
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-M71
+M71 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6 
 \end_layout
 
 \end_inset
@@ -2407,21 +2502,12 @@ M71
 \begin_inset Text
 
 \begin_layout Plain Layout
-6
+1 
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" rightline="true" usebox="none">
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2445,7 +2531,7 @@ M85
 \begin_inset Text
 
 \begin_layout Plain Layout
-1
+1 
 \end_layout
 
 \end_inset
@@ -2483,7 +2569,7 @@ M63
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.5
+0.5 
 \end_layout
 
 \end_inset
@@ -2492,7 +2578,7 @@ M63
 \begin_inset Text
 
 \begin_layout Plain Layout
-8
+8 
 \end_layout
 
 \end_inset
@@ -2568,7 +2654,7 @@ i
 \series bold
 viši naučni saradnik
 \series default
-, sa ostvarenim poenima kandidatkinje, sumirani su u sledećim tabelama:
+, sa ostvarenim poenima kandidatkinje, sumirani su u sledećoj tabeli:
 \end_layout
 
 \begin_layout Standard
@@ -2585,7 +2671,7 @@ viši naučni saradnik
 \begin_inset Text
 
 \begin_layout Plain Layout
-Zvanje: naučni saradnik
+Zvanje: naučni saradnik 
 \end_layout
 
 \end_inset
@@ -2594,7 +2680,7 @@ Zvanje: naučni saradnik
 \begin_inset Text
 
 \begin_layout Plain Layout
- 
+
 \end_layout
 
 \end_inset
@@ -2707,7 +2793,7 @@ potrebno
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2751,11 +2837,11 @@ Zvanje:
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-viši naučni saradnik
+viši naučni saradnik 
 \end_layout
 
 \end_inset
@@ -2795,11 +2881,11 @@ viši naučni saradnik
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-potrebno
+potrebno 
 \end_layout
 
 \end_inset
@@ -2808,7 +2894,7 @@ potrebno
 \begin_inset Text
 
 \begin_layout Plain Layout
-48
+48 
 \end_layout
 
 \end_inset
@@ -2817,7 +2903,7 @@ potrebno
 \begin_inset Text
 
 \begin_layout Plain Layout
-40
+40 
 \end_layout
 
 \end_inset
@@ -2833,11 +2919,11 @@ potrebno
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Ukupno potrebno
+Ukupno potrebno 
 \end_layout
 
 \end_inset
@@ -2846,7 +2932,7 @@ Ukupno potrebno
 \begin_inset Text
 
 \begin_layout Plain Layout
-64
+64 
 \end_layout
 
 \end_inset
@@ -2855,7 +2941,7 @@ Ukupno potrebno
 \begin_inset Text
 
 \begin_layout Plain Layout
-50
+50 
 \end_layout
 
 \end_inset
@@ -2871,13 +2957,15 @@ Ukupno potrebno
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
 Ukupno ostvareno
+\series default
+ 
 \end_layout
 
 \end_inset
@@ -2889,6 +2977,8 @@ Ukupno ostvareno
 
 \series bold
 79
+\series default
+ 
 \end_layout
 
 \end_inset
@@ -2900,6 +2990,8 @@ Ukupno ostvareno
 
 \series bold
 62
+\series default
+ 
 \end_layout
 
 \end_inset
@@ -2933,9 +3025,10 @@ Ukupno ostvareno
 \begin_layout Standard
 S obzirom da kandidatkinja nije ranije birana u naučna zvanja, iz tabele
  se vidi da ona zadovoljava i premašuje minimalne uslove za izbor u zvanje
- viši naučni saradnik u oblasti prirodno--matematičkih nauka, prema propisanim
- kriterijumima za sticanje odgovarajućih naučnih zvanja, pojedinačno i u
- zbiru za zvanja naučni saradnik i viši naučni saradnik.
+ viši naučni saradnik u oblasti prirodno--matematičkih nauka.
+ Naime, prema propisanim kriterijumima za sticanje odgovarajućih naučnih
+ zvanja, pojedinačno i u zbiru za zvanja naučni saradnik i viši naučni saradnik,
+ kandidatkinja u svim kategorijama ima veći broj poena od potrebnog minimuma.
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -2953,7 +3046,7 @@ Kvalitativni pokazatelji naučnog doprinosa kandidatkinje
 \begin_inset VSpace bigskip
 \end_inset
 
-
+ 
 \series bold
 1.
  Pokazatelji uspeha u naučnom radu
@@ -2961,8 +3054,12 @@ Kvalitativni pokazatelji naučnog doprinosa kandidatkinje
 
 \begin_layout Standard
 Dr Irina Branović je aktivna kao član programskog i organizacionog odbora
- konferencije YuInfo.
- Takođe je više godina presedavala sesijama za međunarodnu konferenciju
+ kon\SpecialChar \-
+fe\SpecialChar \-
+ren\SpecialChar \-
+ci\SpecialChar \-
+je YuInfo (http://www.yuinfo.org/program.php).
+ Takođe je više godina predsedavala sesijama za međunarodnu konferenciju
  TELFOR.
 \end_layout
 
@@ -2976,10 +3073,21 @@ Kandidatkinja je aktivna i kao recenzent za naučne časopise, tako da je
 \end_layout
 
 \begin_layout Standard
+Godine 2005.
+ održala je predavanje po pozivu na konferenciji YuInfo sa temom Securing
+ Computer Systems Using Public Key Cryptography
+\begin_inset Newline newline
+\end_inset
+
+ (http://pc.pcpress.rs/tekst.php?id=4752).
+ 
+\end_layout
+
+\begin_layout Standard
 \begin_inset VSpace bigskip
 \end_inset
 
-
+ 
 \series bold
 2.
  Angažovanost u razvoju uslova za naučni rad, obrazovanju i formiranju naučnih
@@ -2988,8 +3096,8 @@ Kandidatkinja je aktivna i kao recenzent za naučne časopise, tako da je
 
 \begin_layout Standard
 Iako je dr Irina Branović aktivno učestvovala u nastajanju više doktorskih
- disertacija i magistarskih radova nekoliko odličnih studenata računarstva,
- to nije i formalno ozvaničeno.
+ disertacija i master radova nekoliko odličnih studenata računarstva, to
+ nije i formalno ozvaničeno.
  Godine 2014.
  bila je predsednik komisije za odbranu doktorske disertacije Marka Markovića
  na temu 
@@ -3000,17 +3108,21 @@ Softverski simulator za edukaciju u oblasti inteligentnih sistema
 \begin_inset Quotes erd
 \end_inset
 
- na Univerzitetu Singidunum.
+ na Univerzitetu Singidunum 
+\begin_inset Newline newline
+\end_inset
+
+(http://www.singipedia.singidunum.ac.rs/content/3936-Softverski-simulator-za-edukaci
+ju-u-oblasti-inteligentnih-sistema).
 \end_layout
 
 \begin_layout Standard
 \noindent
-dr Irina Branović predavala je četiri predmeta na osnovnim studijama računarstva
+Dr Irina Branović predavala je četiri predmeta na osnovnim studijama računarstva
  Univerziteta Singidunum u Beogradu: 
 \end_layout
 
 \begin_layout Itemize
-\noindent
 Informacioni sistemi (2010 - 2014); 
 \end_layout
 
@@ -3021,7 +3133,7 @@ Objektno orijentisano programiranje (2011 - 2014);
 
 \begin_layout Itemize
 \noindent
-Programski sistemi - napredno Java programiranje (2013 - 2014);
+Programski sistemi - napredno Java programiranje (2013 - 2014); 
 \end_layout
 
 \begin_layout Itemize
@@ -3111,34 +3223,12 @@ status collapsed
 
 %
 \backslash
-bigskip
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-% 
+bigskip% 
 \backslash
 noindent {
 \backslash
 bf 4.1.
- Citiranost}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
+ Citiranost}%
 \backslash
 medskip
 \end_layout
@@ -3158,12 +3248,12 @@ je, tako i njenih koautora ne navode se).
 \begin_inset Newline newline
 \end_inset
 
- https://scholar.google.com/citations?hl=sr&user=tW8FkHUAAAAJ
+ https://scholar.google.com/citations?hl=sr&user=tW8FkHUAAAAJ 
 \end_layout
 
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3188,7 +3278,7 @@ re education, Munich, Germany, pp.
 \begin_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3220,6 +3310,7 @@ MARS: an education-oriented MIPS assembly language simulator.
  No.
  1.
  ACM, 2006.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3234,6 +3325,7 @@ A component-based simulator for MIPS32 processors.
 \end_inset
 
  Simulation (2009).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3250,6 +3342,7 @@ A component-based visual simulator for mips32 processors.
  FIE 2008.
  38th Annual.
  IEEE, 2008.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3263,6 +3356,7 @@ MIPSPILOT: A compiler-oriented MIPS simulator.
 \end_inset
 
  Journal of Computing Sciences in Colleges 24.2 (2008): 32-39.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3276,6 +3370,7 @@ A complete design of a RISC processor for pedagogical purposes.
 \end_inset
 
  Journal of Computing Sciences in Colleges 25.2 (2009): 205-213.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3291,6 +3386,7 @@ A full system x86 simulator for teaching computer organization.
 
 Proceedings of the 42nd ACM technical symposium on Computer science education.
  ACM, 2011.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3306,6 +3402,7 @@ Design space exploration of embedded processors in computer architecture
 
  Frontiers in Education Conference, 36th Annual.
  IEEE, 2006.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3321,6 +3418,7 @@ T&D-Bench—Innovative Combined Support for Education and Research in Computer
 \end_inset
 
 Education, IEEE Transactions on 54.4 (2011): 675-682.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3337,6 +3435,7 @@ Ensino e aprendizado de pipeline de modo motivante e eficiente utilizando
 
 WORKSHOP SOBRE EDUCAÇÃO EM ARQUITETURA DE COMPUTADORES (WEAC).
  2008.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3353,6 +3452,7 @@ WASP: a web-based simulator for an educational pipelined processor.
 \end_inset
 
 International Journal of Electrical Engineering Education 44.3 (2007): 197-215.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3367,6 +3467,7 @@ The progressive learning platform.
 
  Workshop on Computer Architecture Education.
  2011.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3383,6 +3484,7 @@ ViSiMIPS: Visual simulator of MIPS32 pipelined processor.
  Computer Science & Education (ICCSE), 2011 6th International Conference
  on.
  IEEE, 2011.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3397,6 +3499,7 @@ WebSimple-MIPS: Simulador Web-based do Pipeline do MIPS.
 
  Workshop em Sistemas Computacionais de Alto Desempenho.
  2008.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3414,6 +3517,7 @@ Workshop sobre Educação em Arquitetura de Computadores WEAC.
  Vol.
  2008.
  2008.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3427,6 +3531,7 @@ SIM-MIPS&HM-Simulador Didático do Nıvel ISA do MIPS e de Hierarquia de Memóri
 \end_inset
 
  (2007): 1-4.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3440,6 +3545,7 @@ Transforming a microprocessors course through the progressive learning platform.
 \end_inset
 
  ASEE Midwest Section, Russelville, AR (2011).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3454,6 +3560,7 @@ Adapting a low complexity datapath to MIPS-1.
 
  Programmable Logic (SPL), 2012 VIII Southern Conference on.
  IEEE, 2012.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3468,6 +3575,7 @@ Emumaker86: a hardware simulator for teaching CPU design.
 
  Proceeding of the 44th ACM technical symposium on Computer science education.
  ACM, 2013.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3482,6 +3590,7 @@ Simulation for Computer Sciences Education.
 \end_inset
 
 Communications of the ACS 6.1 (2013): 49-54.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3496,6 +3605,7 @@ Simulador del procesador MIPS sobre el formalismo DEVS.
 \end_inset
 
  (2010).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3510,7 +3620,7 @@ SIPPIS MIPS: Um Novo Simulador de Pipeline do MIPS 32 bits para Auxílo à
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3523,7 +3633,7 @@ Simulador del procesador MIPS sobre el formalismo DEVS.
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3537,6 +3647,7 @@ MARS: An Education-Oriented MIPS Assembly Language Simulator.
 \end_inset
 
  (2007): 239.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3551,6 +3662,7 @@ s Assembly.
 \end_inset
 
  ForScience 2.1 (2014): 1-16.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3565,6 +3677,7 @@ Diseño e implementación de un simulador software basado en el procesador
 \end_inset
 
  (2015).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3578,7 +3691,7 @@ Departamento de Arquitectura y Tecnología de Computadores ETS Ingenieria
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3593,6 +3706,7 @@ Arquitetura MIPS: desenvolvimento de um simulador.
 
  ANAIS do 9º.
  FÓRUM DE INFORMÁTICA E TECNOLOGIA DE MARINGÁ: 44.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3607,6 +3721,7 @@ Extensão do Ptolemy para o ensino de Organização e Arquitetura de Computadore
 \end_inset
 
  Workshop sobre Educação em Arquitetura de Computadores.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3619,7 +3734,7 @@ Um Ambiente Computacional de Apoio à Aprendizagem de Instruções Assembly.
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3634,6 +3749,7 @@ MIPS X-Ray: A MARS Simulator Plug-in for Teaching Computer Architecture.
 
  International Journal of Recent Contributions from Engineering, Science
  & IT (iJES) 2.2 (2014): pp-36.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3647,7 +3763,7 @@ Alternativas de externalización para la interfaz de red.
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3661,7 +3777,7 @@ Design of a Microsoft Version of MIPS Microprocessor Simulator.
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3676,7 +3792,7 @@ SASM: uma ferramenta para o ensino do processo de montagem e de conjunto
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3693,12 +3809,13 @@ Tool to support computer architecture teaching and learning.
  Engineering Education (CISPEE), 2013 1st International Conference of the
  Portuguese Society for.
  IEEE, 2013.
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3724,7 +3841,7 @@ tt rad}
 \begin_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3751,6 +3868,7 @@ Computational and energy costs of cryptographic algorithms on handheld devices.
 \end_inset
 
  Future Internet 3.1 (2011): 31-48.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3765,6 +3883,7 @@ Optimized implementation of elliptic curve based additive homomorphic encryption
 \end_inset
 
  arXiv preprint arXiv:0903.3900 (2009).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3779,6 +3898,7 @@ Performance of additive homomorphic EC-Elgamal encryption for TinyPEDS.
 
  6.
  Fachgespräch Sensornetzwerke (2007): 55.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3792,6 +3912,7 @@ A New Digital Signature Scheme Based on Mandelbrot and Julia Fractal Sets.
 \end_inset
 
  American Journal of Applied Sciences 4.11 (2007): 850-858.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3806,6 +3927,7 @@ New Key Exchange Protocol Based on Mandelbrot and Julia Fractal Sets.
 
  International Journal of Computer Science and Network Security (IJCSNS)
  7.2 (2007): 302-307.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3823,6 +3945,7 @@ Asymmetric homomorphic encryption transformation for securing distributed
 
  Technische Universit” at Darmstadt-in Cooperation with NEC Europe Ltd.,
  Heidelberg, Darmstadt (2007).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3836,6 +3959,7 @@ A New Public-Key Cryptosystem Based On Mandelbrot And Julia Fractal Sets.
 \end_inset
 
  Asian journal of Information technology 6.5 (2007): 567-575.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3849,6 +3973,7 @@ A New Digital Signature Scheme Based on Mandelbrot and Julia Fractal Sets.
 \end_inset
 
  American Journal of Applied Sciences 4.11 (2007): 848-856.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3865,6 +3990,7 @@ EVoting PROTOCOL BASED ON PUBLIC-KEY CRYPTOGRAPHY.
 
  International Journal Of Network Security & Its Applications 3.4 (2011):
  87-98.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3881,6 +4007,7 @@ Cryptography Based Authentication Methods.
  Vol.
  1.
  2014.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3894,6 +4021,7 @@ Computational and Energy Costs of Cryptographic Algorithms on Handheld Devices.
 \end_inset
 
  (2011).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3909,6 +4037,7 @@ Cryptosystems Based on Chaos Theory.
  Chaos, Complexity and Leadership 2013.
  Springer International Publishing, 2015.
  129-145.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3925,12 +4054,13 @@ Characterizing the Performance of Security Functions in Mobile Computing
 \end_inset
 
  Internet of Things Journal, IEEE 1.5 (2014): 399-413.
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3956,7 +4086,7 @@ tt rad}
 \begin_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3983,6 +4113,7 @@ The present and future of smart power grid in developing countries.
 \end_inset
 
  Renewable and Sustainable Energy Reviews 29 (2014): 828-834.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -3998,6 +4129,7 @@ A review of Integration, Control, Communication and Metering (ICCM) of renewable
 \end_inset
 
  Renewable and Sustainable Energy Reviews 38 (2014): 180-192.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4012,6 +4144,7 @@ Cloud computing for smart grid applications.
 \end_inset
 
  Computer Networks 70 (2014): 312-329.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4025,6 +4158,7 @@ Sustainable enterprise resource planning: imperatives and research directions.
 \end_inset
 
  Journal of Cleaner Production 71 (2014): 139-147.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4038,6 +4172,7 @@ A review of wireless communications for smart grid.
 \end_inset
 
  Renewable and Sustainable Energy Reviews 41 (2015): 248-260.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4054,6 +4189,7 @@ ies and devices for distributed energy systems in micro & small scale in
 
  Bulletin of the Polish Academy of Sciences: Technical Sciences 61.4 (2013):
  749-756.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4067,6 +4203,7 @@ Real-time detection of anomalous power consumption.
 \end_inset
 
  Renewable and Sustainable Energy Reviews 33 (2014): 400-411.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4080,6 +4217,7 @@ Dynamic optimization of energy systems with thermal energy storage.
 \end_inset
 
  (2013).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4089,6 +4227,7 @@ Fons Gomez, Fernando Jose.
  de Modelos de Negocio de este tipo de empresas.
  Diss.
  2014.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4102,7 +4241,7 @@ Distributed Software Infrastructure for General Purpose Services in Smart
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4118,6 +4257,7 @@ Big Data Research.
 \end_inset
 
  (2015).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4133,6 +4273,7 @@ Design and Implementation of Energy Hub for Smart Grid.
  Intelligent Systems Design and Engineering Applications, 2013 Fourth Internatio
 nal Conference on.
  IEEE, 2013.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4146,6 +4287,7 @@ A survey on the contributions of power electronics to smart grid systems.
 \end_inset
 
  Renewable and Sustainable Energy Reviews 47 (2015): 562-579.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4162,6 +4304,7 @@ Combined Operation of an Unified Power Quality Conditioner and a Superconducting
  Technological Innovation for Cloud-Based Engineering Systems.
  Springer International Publishing, 2015.
  374-382.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4176,6 +4319,7 @@ Cognitive radio sensor networks: Smart communication for smart grids—A case
 \end_inset
 
  Renewable and Sustainable Energy Reviews 40 (2014): 463-474.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4193,6 +4337,7 @@ n.
  Advances in Neural Networks–ISNN 2014.
  Springer International Publishing, 2014.
  550-557.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4207,6 +4352,7 @@ Dynamic pricing based on a cloud computing framework to support the integration
 \end_inset
 
  The Journal of Engineering 1.1 (2014).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4222,6 +4368,7 @@ Multi-Agent modeling of a meters network used in Smart Grid.
  Computer Applications and Information Systems (WCCAIS), 2014 World Congress
  on.
  IEEE, 2014.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4236,6 +4383,7 @@ Design and Implementation of Energy Management System for Energy Hub in
 \end_inset
 
  Information Technology Journal 12.18 (2013): 4797-4804.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4249,6 +4397,7 @@ Smart Grid.
 \end_inset
 
  (2015).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4261,8 +4410,13 @@ Using Features of Cloud Computing to Defend Smart Grid against DDoS Attacks.
 \begin_inset Quotes erd
 \end_inset
 
- 10th Annual Symposium on Information Assurance (ASIA’15).
+ 10th Annual Symposium on Information Assurance (ASIA
+\begin_inset Quotes ers
+\end_inset
+
+15).
  2015.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4276,6 +4430,7 @@ Typification of load curves for DSM in Brazil for a smart grid environment.
 \end_inset
 
  International Journal of Electrical Power & Energy Systems 67 (2015): 216-221.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4291,6 +4446,7 @@ A test bed for smart energy education in the field of computer engineering.
  Proceedings of the Second International Conference on Technological Ecosystems
  for Enhancing Multiculturality.
  ACM, 2014.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4305,6 +4461,7 @@ Improving Knowledge-Based Systems with statistical techniques, text mining,
 \end_inset
 
  Knowledge-Based Systems 71 (2014): 376-388.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4320,6 +4477,7 @@ Dynamic load-shifting program based on a cloud computing framework to support
 \end_inset
 
  Applied Energy 146 (2015): 141-149.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4337,6 +4495,7 @@ Computing Mode Study of Large-Scale Power Grid Online Analysis Software
  Vol.
  427.
  2013.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4350,6 +4509,7 @@ Data Management in Smart Grid.
 \end_inset
 
  Innovative Testing and Measurement Solutions for Smart Grid: 183-210.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4363,6 +4523,7 @@ A framework of service-oriented operation model of China's power system.
 \end_inset
 
  Renewable and Sustainable Energy Reviews 50 (2015): 719-725.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4380,6 +4541,7 @@ Distributed Cogeneration.
  Steam Microturbines in Distributed Cogeneration.
  Springer International Publishing, 2014.
  1-16.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4395,12 +4557,13 @@ Big Data Analytics for Dynamic Energy Management in Smart Grids.
 \end_inset
 
  Big Data Research (2015).
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4426,7 +4589,7 @@ tt rad}
 \begin_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4456,6 +4619,7 @@ A design flow and evaluation framework for DPA-resistant instruction set
  Cryptographic Hardware and Embedded Systems-CHES 2009.
  Springer Berlin Heidelberg, 2009.
  205-219.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4471,6 +4635,7 @@ Light-weight instruction set extensions for bit-sliced cryptography.
  Cryptographic Hardware and Embedded Systems–CHES 2008.
  Springer Berlin Heidelberg, 2008.
  331-345.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4488,6 +4653,7 @@ Fast and efficient implementation of AES via instruction set extensions.
  Vol.
  1.
  IEEE, 2007.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4503,6 +4669,7 @@ Attacking elliptic curve cryptosystems with special-purpose hardware.
  Proceedings of the 2007 ACM/SIGDA 15th international symposium on Field
  programmable gate arrays.
  ACM, 2007.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4519,6 +4686,7 @@ Enhancing the performance of symmetric-key cryptography via instruction
 
  Very Large Scale Integration (VLSI) Systems, IEEE Transactions on 18.11
  (2010): 1505-1518.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4532,6 +4700,7 @@ Accelerated AES implementations via generalized instruction set extensions.
 \end_inset
 
  Journal of Computer Security 16.3 (2008): 265-288.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4547,6 +4716,7 @@ Acceleration of finite field arithmetic algorithms in embedded processing
 
  Electro/Information Technology, 2007 IEEE International Conference on.
  IEEE, 2007.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4562,6 +4732,7 @@ CReconfigurable finite field instruction set architecture.
  Proceedings of the 2007 ACM/SIGDA 15th international symposium on Field
  programmable gate arrays.
  ACM, 2007.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4577,6 +4748,7 @@ Unified Dual-Radix Architecture for Scalable Montgomery Multiplications
 
  IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer
  Sciences 92.9 (2009): 2304-2317.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4592,6 +4764,7 @@ Intellectual Property Protection for Embedded Sensor Nodes.
  Embedded Computer Systems: Architectures, Modeling, and Simulation.
  Springer Berlin Heidelberg, 2008.
  289-298.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4606,6 +4779,7 @@ Editorial: Recent developments in high performance computing and security:
 \end_inset
 
  Future Generation Computer Systems 29.3 (2013): 782-787.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4613,6 +4787,7 @@ Joshi, Pallavi.
  Towards Faster Cryptography.
  Diss.
  Indian Institute of Technology Kharagpur, 2006.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4627,6 +4802,7 @@ Securing Software Intellectual Property on Commodity and Legacy Embedded
 \end_inset
 
  (2010).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4640,12 +4816,13 @@ AMEX: Extending Addressing Mode of 16-bit Thumb Instruction Set Architecture.
 \end_inset
 
  Journal of The Korea Society of Computer and Information 17.11 (2012): 1-10.
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4662,13 +4839,12 @@ tt rad}
  Branovic, R Giorgi, E Martinelli, A workload characterization of elliptic
  curve cryptography methods in embedded environments, ACM SIGARCH Computer
  Architecture News, 32 (3): 27-34, 2004.
- 
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4696,6 +4872,7 @@ SIP authentication scheme using ECDH.
 
  World Enformatika Society Transations on Engineering Computing and Technology
  8 (2005): 350-353.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4709,6 +4886,7 @@ A secure and efficient SIP authentication scheme for converged VoIP networks.
 \end_inset
 
  Computer Communications 33.14 (2010): 1674-1681.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4724,6 +4902,7 @@ Hardware support for code integrity in embedded processors.
  Proceedings of the 2005 international conference on Compilers, architectures
  and synthesis for embedded systems.
  ACM, 2005.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4738,6 +4917,7 @@ Robust mutual authentication with a key agreement scheme for the session
 \end_inset
 
  IETE Technical Review 27.3 (2010): 203-213.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4755,6 +4935,7 @@ An efficient mobile voting system security scheme based on elliptic curve
  NSS'09.
  Third International Conference on.
  IEEE, 2009.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4762,6 +4943,7 @@ Milenkovic, Milena.
  Architectures for run-time verification of code integrity.
  Diss.
  The University of Alabama in Huntsville, 2005.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4778,6 +4960,7 @@ A low overhead hardware technique for software integrity and confidentiality.
  ICCD 2007.
  25th International Conference on.
  IEEE, 2007.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4791,6 +4974,7 @@ Security extensions for integrity and confidentiality in embedded processors.
 \end_inset
 
  Microprocessors and Microsystems 33.5 (2009): 398-414.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4805,6 +4989,7 @@ An efficient runtime instruction block verification for secure embedded
 \end_inset
 
  Journal of Embedded Computing 2.1 (2006): 57.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4820,6 +5005,7 @@ A multi-pronged approach to benchmark characterization.
  Cluster Computing Workshops and Posters (CLUSTER WORKSHOPS), 2010 IEEE
  International Conference on.
  IEEE, 2010.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4828,6 +5014,7 @@ Rogers, Austin.
  Challenges, and Architectural Solutions.
  Diss.
  The University of Alabama in Huntsville, 2010.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4842,6 +5029,7 @@ Robust and efficient password authenticated key agreement with user anonymity
 \end_inset
 
  Communications, IET 8.1 (2014): 83-91.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4855,6 +5043,7 @@ mTags: augmenting microkernel messages with lightweight metadata.
 \end_inset
 
  ACM SIGOPS Operating Systems Review 46.2 (2012): 67-79.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4868,6 +5057,7 @@ Robust biometric-based three-party authenticated key establishment protocols.
 \end_inset
 
  International Journal of Computer Mathematics 88.6 (2011): 1144-1157.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4876,6 +5066,7 @@ Rogers, Austin.
 ality in Embedded Systems.
  Diss.
  The University of Alabama in Huntsville, 2007.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4891,6 +5082,7 @@ Intellectual Property Protection for Embedded Sensor Nodes.
  Embedded Computer Systems: Architectures, Modeling, and Simulation.
  Springer Berlin Heidelberg, 2008.
  289-298.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4904,6 +5096,7 @@ Tags: Augmenting Microkernel Messages with Lightweight Metadata.
 \end_inset
 
  (2012).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4921,6 +5114,7 @@ Performance Evaluation of Asymmetric Encryption Algorithms in embedded platforms
  (SAM).
  The Steering Committee of The World Congress in Computer Science, Computer
  Engineering and Applied Computing (WorldComp), 2013.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -4935,12 +5129,13 @@ Securing Software Intellectual Property on Commodity and Legacy Embedded
 \end_inset
 
  (2010).
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4960,13 +5155,12 @@ tt rad}
  Martinelli, Effects of Instruction-set Extensions on an Embedded Processor:
  a Case Study on Elliptic Curve Cryptography over GF(2m), IEEE Transansactions
  on Computers, 57(5):672--685, 2008.
- 
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4994,6 +5188,7 @@ ion in sensor networks.
 \end_inset
 
  Computer Communications 34.3 (2011): 485-493.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5007,6 +5202,7 @@ Efficient binary field multiplication on a VLIW DSP.
 \end_inset
 
  (2009).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5021,6 +5217,7 @@ l multiply instruction on GF (2).
 \end_inset
 
  IET computers & digital techniques 6.3 (2012): 180-185.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5034,6 +5231,7 @@ Fast software multiplication in F2 [x] for embedded processors.
 \end_inset
 
  Turkish Journal of Electrical Engineering & Computer Sciences 20.4 (2012).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5050,6 +5248,7 @@ Decreasing point multiplication over ECC (Z p) using tree computations.
  Computing, Communication and Applications (ICCCA), 2012 International Conferenc
 e on.
  IEEE, 2012.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5064,6 +5263,7 @@ Optimizing point Doubling Operations in ECC Zp.
 \end_inset
 
  International Journal of Computer Applications 41.6 (2012).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5079,6 +5279,7 @@ Analyzing the Point Multiplication Operation of Elliptic Curve Cryptosystem
 \end_inset
 
  International Arab Jounal of Information Technology 11.4 (2014): 1-7.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5094,6 +5295,7 @@ Embedded reconfigurable computing: the ERA approach.
  Industrial Informatics (INDIN), 2013 11th IEEE International Conference
  on.
  IEEE, 2013.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5107,6 +5309,7 @@ Cryptographic coprocessors for embedded systems.
 \end_inset
 
  (2014).
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5121,12 +5324,13 @@ Performance Comparison of Projective Elliptic-curve Point Multiplication
 \end_inset
 
  (2014).
+ 
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -5152,7 +5356,7 @@ tt rad}
 \begin_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -5181,6 +5385,7 @@ Interactive educational tool for teaching a simple cipher.
  Biometrics and Security Technologies (ISBAST), 2014 International Symposium
  on.
  IEEE, 2014.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -5194,6 +5399,7 @@ A Comparison of Different Methods of Instruction in Cryptography.
 \end_inset
 
  (2014).
+ 
 \end_layout
 
 \end_deeper
@@ -5201,7 +5407,7 @@ A Comparison of Different Methods of Instruction in Cryptography.
 Kako se iz navedenih podataka može zaključiti, barem sedam publikacija dr
  Irine Branović citirano je ukupno više od 120 puta u svetskoj naučnoj literatur
 i.
- Rezultati Irine Branović citirani su u raznorodnim publikacijama, počev
+ Rezultati kandidatkinje citirani su u raznorodnim publikacijama, počev
  od doktorskih teza i istraživačkih izveštaja sa renomiranih svetskih univerzite
 ta, preko saopštenja na međunarodnim sku\SpecialChar \-
 po\SpecialChar \-
@@ -5218,24 +5424,13 @@ ma, pa do radova u vrhunskim
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 %
 \backslash
-bigskip
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
+bigskip%
 \backslash
 bigskip
 \end_layout
@@ -5272,7 +5467,6 @@ ni su i korišćeni u novijoj
  literaturi o čemu svedoče brojni citati referentnih radova.
  Novi problemi i metode koje je predočila u svojim radovima, razmatraju
  se kako u svetu, tako i u našim institucijama.
- 
 \end_layout
 
 \begin_layout Standard
@@ -5298,12 +5492,10 @@ status collapsed
 %
 \backslash
 bigskip
+\backslash
+bigskip{}
 \end_layout
 
-\end_inset
-
-
-\begin_inset VSpace bigskip
 \end_inset
 
 
@@ -5319,7 +5511,7 @@ Iz navedenih podataka vidi se da dr Irina Branović aktivno i uspešno učestvuj
 \end_layout
 
 \begin_layout Standard
-Na osnovu spiska objavljenih radova i njihove valorizacije na osnovu 
+Na osnovu spiska objavljenih radova i njihove valorizacije prema 
 \begin_inset ERT
 status collapsed
 
@@ -5343,7 +5535,7 @@ em
 
 \end_inset
 
- Pravilnika o postupku i načinu vrednovanja, i kvantitativnom iskazivanju
+ Pravilniku o postupku i načinu vrednovanja, i kvantitativnom iskazivanju
  naučno\SpecialChar \-
 is\SpecialChar \-
 tra\SpecialChar \-
@@ -5376,29 +5568,8 @@ bf vi
 \backslash
 v{s}i nau
 \backslash
-v{c}ni
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%saradnik} u oblasti prirodnih nauka, u vezi sa vrednostima
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%koeficijenta, sumirani su u slede
+v{c}ni%saradnik} u oblasti prirodnih nauka, u vezi sa vrednostima%koeficijenta,
+ sumirani su u slede
 \backslash
 'coj tabeli:
 \end_layout
@@ -5432,58 +5603,15 @@ status collapsed
 
 %
 \backslash
-begin{center}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
+begin{center}%
 \backslash
-begin{tabular}{|l|c|c|c|}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-% 
+begin{tabular}{|l|c|c|c|}% 
 \backslash
-hline koeficijenat & $R_{81}$ & $R_{10}+R_{20}+R_{30}+R_{40}+R_{50}+
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-% R_{61}$ & $R_{62-66}+R_{70}$
+hline koeficijenat & $R_{81}$ & $R_{10}+R_{20}+R_{30}+R_{40}+R_{50}+% R_{61}$
+ & $R_{62-66}+R_{70}$
 \backslash
 
 \backslash
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
 % 
 \backslash
 hline vrednost & 6 & 7 ($R_{50}
@@ -5492,57 +5620,13 @@ geq 4$) & 2.5
 \backslash
 
 \backslash
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
 % 
 \backslash
-hline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-% 
+hline% 
 \backslash
-end{tabular}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
+end{tabular}%
 \backslash
-end{center}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
+end{center}%
 \backslash
 medskip
 \end_layout
@@ -5559,7 +5643,8 @@ te\SpecialChar \-
 ma\SpecialChar \-
 tič\SpecialChar \-
 kog instituta SANU da na osnovu priloženog izveštaja formira predlog
- Ministarstvu nauke da dr Irinu Branović Balović 
+ nadležnoj Komisiji Ministarstva prosvete, nauke i tehnološkog razvoja da
+ dr Irinu Branović Balović 
 \begin_inset ERT
 status collapsed
 
@@ -5583,7 +5668,7 @@ viši naučni saradnik
 \begin_inset VSpace bigskip
 \end_inset
 
-
+ 
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -5605,7 +5690,7 @@ height_special "totalheight"
 status open
 
 \begin_layout Plain Layout
- U Beogradu
+U Beogradu
 \begin_inset Newline newline
 \end_inset
 
@@ -5634,7 +5719,7 @@ status open
 \begin_inset VSpace bigskip
 \end_inset
 
-Članovi komisije
+ Članovi komisije
 \end_layout
 
 \begin_layout Plain Layout
@@ -5647,12 +5732,10 @@ status collapsed
 %
 \backslash
 bigskip
+\backslash
+bigskip{}
 \end_layout
 
-\end_inset
-
-
-\begin_inset VSpace bigskip
 \end_inset
 
 
@@ -5713,7 +5796,7 @@ dr Tatjana Davidović,
 \begin_inset VSpace bigskip
 \end_inset
 
-
+ 
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -5740,7 +5823,7 @@ prof.dr Miomir Stanković,
 \begin_inset VSpace bigskip
 \end_inset
 
-
+ 
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -5767,7 +5850,7 @@ dr Slobodan Simić,
 \begin_inset VSpace bigskip
 \end_inset
 
-
+ 
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -5790,7 +5873,7 @@ status collapsed
 
 \end_inset
 
-
+ 
 \end_layout
 
 \end_body
